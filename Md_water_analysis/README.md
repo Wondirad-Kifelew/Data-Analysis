@@ -15,7 +15,7 @@ The dataset comes from several tables called `water_source`, `location`, `visits
 
 ---
 
-### 📊 **Analysis Questions & SQL Queries**  
+### 📊 **Analysis Questions & SQL Queries along with their results**  
 
 ---
 
