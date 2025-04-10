@@ -87,40 +87,42 @@ group by
 7. Queue waiting times
    
    7.1 Average waiting time
-    ```
-    SELECT 
-    AVG(NULLIF(time_in_queue, 0)) AS avg_queue_time
-    FROM 
-        md_water_services.visits;
-    ```
+     ```
+     SELECT 
+         AVG(NULLIF(time_in_queue, 0)) AS avg_queue_time
+     FROM 
+         md_water_services.visits;
+     ```
     ![Dashboard screenshot](Images/3.jpg)
+   
     7.2 Queue time by hour of the day
-   ```
-   SELECT 
-    TIME_FORMAT(TIME(time_of_record), '%H:00') AS hour_of_day,
-    AVG(time_in_queue) AS avg_queue
-    FROM 
-        md_water_services.visits
-    GROUP BY 
-        hour_of_day
-    ORDER BY 
-        avg_queue DESC;
-
-   ```
+     ```
+        SELECT 
+            TIME_FORMAT(TIME(time_of_record), '%H:00') AS hour_of_day,
+            AVG(time_in_queue) AS avg_queue
+        FROM 
+            md_water_services.visits
+        GROUP BY 
+            hour_of_day
+        ORDER BY 
+            avg_queue DESC;
+    
+     ```
    ![Dashboard screenshot](Images/5.jpg)
-   7.3 Queue time by day of the week
-   ```
-   SELECT 
-    DAYNAME(time_of_record) AS day,
-    AVG(NULLIF(time_in_queue, 0)) AS avg_queue
-    FROM 
-        md_water_services.visits
-    GROUP BY 
-        DAYNAME(time_of_record)
-    ORDER BY 
-        avg_queue DESC;
 
-   ```
+   7.3 Queue time by day of the week
+     ```
+       SELECT 
+            DAYNAME(time_of_record) AS day,
+            AVG(NULLIF(time_in_queue, 0)) AS avg_queue
+       FROM 
+            md_water_services.visits
+       GROUP BY 
+            DAYNAME(time_of_record)
+       ORDER BY 
+            avg_queue DESC;
+
+     ```
 ![Dashboard screenshot](Images/4.jpg)
 
 
