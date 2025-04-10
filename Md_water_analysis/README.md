@@ -13,7 +13,7 @@ This analysis explores access to water sources in Maji Ndogo; a hypothetical pla
 
 The dataset comes from a table called `water_source` inside the `md_water_services` schema. Each row represents a water source, its type, and the number of people it serves.
 
-![Dashboard screenshot](Images/scr1)
+![Dashboard screenshot](Images/scr1.jpg)
 
 ---
 
