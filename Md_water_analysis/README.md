@@ -29,7 +29,7 @@ SELECT
 FROM 
     md_water_services.water_source;
 ```
-**scr2**
+![Dashboard screenshot](Images/scr3.jpg)
 
 ---
 2. 🧾 Count of Each Water Source Type (Well, Tap, River, etc.)
@@ -42,7 +42,7 @@ FROM
 GROUP BY 
     type_of_water_source;
 ```
-**scr3**
+![Dashboard screenshot](Images/scr1.jpg)
 
 3. 👥 Average Number of People Sharing Each Type of Water Source
 ```
@@ -54,7 +54,7 @@ FROM
 GROUP BY 
     type_of_water_source;
 ```
-**scr4**
+![Dashboard screenshot](Images/scr4.jpg)
 
 4. 📈 Total Population by Water Source Type & Rank
 ```
@@ -70,7 +70,7 @@ FROM
 GROUP BY 
     type_of_water_source;
 ```
-**scr5**
+![Dashboard screenshot](Images/scr5.jpg)
 
 5. 🏅 Ranking Within Each Water Source Type (internal ranking)
 ```
@@ -80,7 +80,7 @@ SELECT
 FROM 
     md_water_services.water_source;
 ```
-**scr6**
+![Dashboard screenshot](Images/scr6.jpg)
 
 📌 Key Insights & Findings
 A total of 27.63 million people were surveyed across all water sources.
