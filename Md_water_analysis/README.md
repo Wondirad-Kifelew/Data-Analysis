@@ -1,4 +1,4 @@
-# MD Water Services: A Data Analysis Using SQL  
+# MD Water Services: A Data Analysis Using SQL and Power BI
 *By Wondirad Abebe Kifelew*
 
 ---
@@ -30,6 +30,8 @@ FROM
     md_water_services.water_source;
 ```
 **scr2**
+
+---
 2. 🧾 Count of Each Water Source Type (Well, Tap, River, etc.)
 ```
 SELECT 
