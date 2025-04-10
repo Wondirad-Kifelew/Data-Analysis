@@ -2,6 +2,8 @@
 *By Wondirad Abebe Kifelew*  
 
 ---
+![Total surveyed](Images/md.jpg)
+---
 
 ### 🌍 **Project Overview**  
 
