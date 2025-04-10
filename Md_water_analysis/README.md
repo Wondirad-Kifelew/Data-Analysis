@@ -72,13 +72,64 @@ GROUP BY
 ```
 ![Dashboard screenshot](Images/scr5.jpg)
 
-5. 🏅 Ranking Within Each Water Source Type (internal ranking)
+5. Number of water sources in rural vs urban 
 ```
-SELECT 
-    *,
-    DENSE_RANK() OVER (PARTITION BY type_of_water_source ORDER BY number_of_people_served DESC) AS internal_rank
-FROM 
-    md_water_services.water_source;
+SELECT
+    location_type, count(location_id) as count   
+FROM
+    md_water_services.location 
+group by
+    location_type;
+```
+**1**
+
+6. Shared taps show stagguring numbers
+**2**
+
+7. Queue waiting times
+   7.1 Average waiting time
+    ```
+    SELECT 
+    AVG(NULLIF(time_in_queue, 0)) AS avg_queue_time
+    FROM 
+        md_water_services.visits;
+    ```
+    7.2 Queue time by hour of the day
+   ```
+   SELECT 
+    TIME_FORMAT(TIME(time_of_record), '%H:00') AS hour_of_day,
+    AVG(time_in_queue) AS avg_queue
+    FROM 
+        md_water_services.visits
+    GROUP BY 
+        hour_of_day
+    ORDER BY 
+        avg_queue DESC;
+
+   ```
+   7.3 Queue time by day of the week
+   ```
+   SELECT 
+    DAYNAME(time_of_record) AS day,
+    AVG(NULLIF(time_in_queue, 0)) AS avg_queue
+    FROM 
+        md_water_services.visits
+    GROUP BY 
+        DAYNAME(time_of_record)
+    ORDER BY 
+        avg_queue DESC;
+
+   ```
+![Dashboard screenshot](Images/scr6.jpg)
+
+5. Number of water sources in rural vs urban 
+```
+SELECT
+    location_type, count(location_id) as count   
+FROM
+    md_water_services.location 
+group by
+    location_type;
 ```
 ![Dashboard screenshot](Images/scr6.jpg)
 
