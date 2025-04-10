@@ -172,8 +172,10 @@ ORDER BY
 
 ### 📢 Recommendations
 
-- **Prioritize improving shared taps**—benefits will scale to large groups.  
-- **Fixing existing infrastructure** can drastically reduce queue times for everyone.  
+- **Prioritize improving shared taps** —benefits will scale to large groups.  
+- Recommend deploying **mobile water tanks** or temporary staff on peak days (like Saturdays).
+- Build water tankers and hire people so they can fill the tankers in shortest queue times like mid days to shorten the queue time in the 
+ evening  
 - Since most sources are in **rural regions**, infrastructure teams should prepare for **logistical challenges** (road access, labor, and supply chains).
 
 ---
