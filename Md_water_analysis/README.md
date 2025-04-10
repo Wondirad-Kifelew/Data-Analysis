@@ -29,7 +29,7 @@ SELECT
 FROM 
     md_water_services.water_source;
 ```
-![Dashboard screenshot](Images/scr3.jpg)
+![Dashboard screenshot](Images/scr3-table.jpg)
 
 ---
 2. 🧾 Count of Each Water Source Type (Well, Tap, River, etc.)
