@@ -1,4 +1,5 @@
-# MD Water Services: A Data Analysis Using SQL and Power BI  
+# MD Water Services: Exploring Water Access with SQL & Power BI
+
 *By Wondirad Abebe Kifelew*  
 
 ---
