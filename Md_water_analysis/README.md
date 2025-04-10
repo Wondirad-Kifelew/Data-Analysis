@@ -42,7 +42,7 @@ FROM
 GROUP BY 
     type_of_water_source;
 ```
-![Dashboard screenshot](Images/scr1.jpg)
+![Dashboard screenshot](Images/scr3-table.jpg)
 
 3. 👥 Average Number of People Sharing Each Type of Water Source
 ```
