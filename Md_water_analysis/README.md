@@ -23,7 +23,7 @@ The dataset comes from a table called `water_source` inside the `md_water_servic
 
 #### 1. 💡 Total Number of People Surveyed (in Millions)
 
-```sql
+```
 SELECT 
     SUM(number_of_people_served) / 1000000 AS Total_surveyed_in_millions
 FROM 
@@ -81,12 +81,13 @@ FROM
 group by
     location_type;
 ```
-**1**
+![Dashboard screenshot](Images/1.jpg)
 
 6. Shared taps show stagguring numbers
-**2**
+![Dashboard screenshot](Images/2.jpg)
 
 7. Queue waiting times
+   
    7.1 Average waiting time
     ```
     SELECT 
@@ -94,6 +95,7 @@ group by
     FROM 
         md_water_services.visits;
     ```
+    ![Dashboard screenshot](Images/3.jpg)
     7.2 Queue time by hour of the day
    ```
    SELECT 
@@ -107,6 +109,7 @@ group by
         avg_queue DESC;
 
    ```
+   ![Dashboard screenshot](Images/5.jpg)
    7.3 Queue time by day of the week
    ```
    SELECT 
@@ -120,34 +123,37 @@ group by
         avg_queue DESC;
 
    ```
-![Dashboard screenshot](Images/scr6.jpg)
+![Dashboard screenshot](Images/4.jpg)
 
-5. Number of water sources in rural vs urban 
-```
-SELECT
-    location_type, count(location_id) as count   
-FROM
-    md_water_services.location 
-group by
-    location_type;
-```
-![Dashboard screenshot](Images/scr6.jpg)
+
 
 📌 Key Insights & Findings
-A total of 27.63 million people were surveyed across all water sources.
+- A total of 27.63 million people were surveyed across all water sources.
 
-The most common water source is well, serving 17.52% of the population.
+- The most common water source is well, serving 17.52% of the population.
 
-Wells or taps tend to serve more people on average than rivers or springs.
+- Wells or taps tend to serve more people on average than rivers or springs.
 
-There’s a significant population relying on a small number of highly shared water sources.
+- There’s a significant population relying on a small number of highly shared water sources.
+
+- Most water sources are found in rural places
+
+- 43% of the people are using shared taps. Around 2000 people often share one tap.
+
+- The citizens often face long wait times for water, averaging more than 120 minutes:
+
+    • Queues are very long on Saturdays.
+    • Queues are longer in the mornings and evenings.
+    • Wednesdays and Sundays have the shortest queues.
 
 📢 Recommendations
-Infrastructure Investment: Increase the number of water points in over-utilized categories like well.
+- Most people will benefit if shared taps are improved first.
+  
+- Fixing existing infrastructure will help many people. If they have running water again, they won't have to queue, thereby shorting queue times for others.
+  
+- Most water sources are in rural areas. The teams need to know this as this means they will have to make these repairs/upgrades in
+rural areas where road conditions, supplies, and labour are harder challenges to overcome.
 
-Hygiene Campaigns: Focus on rural areas where less protected sources are common.
-
-Monitoring: Use ranking systems to identify sources under strain or at risk.
 
 📬 Contact
 For collaboration, feedback, or job opportunities:
