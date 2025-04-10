@@ -1,0 +1,1049 @@
+Region,Sub_region,Country_name,Time_period,Pct_managed_drinking_water_services,Pct_managed_sanitation_services,Est_population_in_millions,Est_gdp_in_billions,Land_area,Pct_unemployment
+"Central and Southern Asia","Central Asia",Kazakhstan,2015,94.67,98.00,17.542806,184.39,2699700.00,4.93
+"Central and Southern Asia","Central Asia",Kazakhstan,2016,94.67,98.00,17.794055,137.28,2699700.00,4.96
+"Central and Southern Asia","Central Asia",Kazakhstan,2017,95.00,98.00,18.037776,166.81,2699700.00,4.90
+"Central and Southern Asia","Central Asia",Kazakhstan,2018,95.00,98.00,18.276452,179.34,2699700.00,4.85
+"Central and Southern Asia","Central Asia",Kazakhstan,2019,95.00,98.00,18.513673,181.67,2699700.00,4.80
+"Central and Southern Asia","Central Asia",Kazakhstan,2020,95.00,98.00,18.755666,171.08,2699700.00,4.89
+"Central and Southern Asia","Central Asia",Kyrgyzstan,2015,89.67,96.67,NULL,NULL,NULL,NULL
+"Central and Southern Asia","Central Asia",Kyrgyzstan,2016,90.33,96.67,NULL,NULL,NULL,NULL
+"Central and Southern Asia","Central Asia",Kyrgyzstan,2017,91.00,97.33,NULL,NULL,NULL,NULL
+"Central and Southern Asia","Central Asia",Kyrgyzstan,2018,91.33,97.33,NULL,NULL,NULL,NULL
+"Central and Southern Asia","Central Asia",Kyrgyzstan,2019,91.67,97.33,NULL,NULL,NULL,NULL
+"Central and Southern Asia","Central Asia",Kyrgyzstan,2020,92.67,97.67,NULL,NULL,NULL,NULL
+"Central and Southern Asia","Central Asia",Tajikistan,2015,80.33,95.00,8.524063,8.27,138790.00,NULL
+"Central and Southern Asia","Central Asia",Tajikistan,2016,81.33,95.33,8.725318,6.99,138790.00,6.90
+"Central and Southern Asia","Central Asia",Tajikistan,2017,82.33,95.67,8.925525,7.54,138790.00,NULL
+"Central and Southern Asia","Central Asia",Tajikistan,2018,83.33,95.67,9.128132,7.77,138790.00,NULL
+"Central and Southern Asia","Central Asia",Tajikistan,2019,85.00,96.33,9.337003,8.30,138790.00,NULL
+"Central and Southern Asia","Central Asia",Tajikistan,2020,85.00,96.33,9.543207,8.13,138790.00,NULL
+"Central and Southern Asia","Central Asia",Turkmenistan,2015,97.67,97.33,5.766431,35.80,469930.00,NULL
+"Central and Southern Asia","Central Asia",Turkmenistan,2016,98.00,98.00,5.868561,36.17,469930.00,NULL
+"Central and Southern Asia","Central Asia",Turkmenistan,2017,98.67,98.00,5.968383,37.93,469930.00,NULL
+"Central and Southern Asia","Central Asia",Turkmenistan,2018,99.33,98.67,6.065066,40.77,469930.00,NULL
+"Central and Southern Asia","Central Asia",Turkmenistan,2019,100.00,99.33,6.158420,45.23,469930.00,NULL
+"Central and Southern Asia","Central Asia",Turkmenistan,2020,100.00,99.33,6.250438,NULL,469930.00,NULL
+"Central and Southern Asia","Central Asia",Uzbekistan,2015,97.67,100.00,31.298900,86.20,440600.00,5.15
+"Central and Southern Asia","Central Asia",Uzbekistan,2016,97.67,100.00,31.847900,86.14,440591.00,5.16
+"Central and Southern Asia","Central Asia",Uzbekistan,2017,98.00,100.00,32.388600,62.08,440588.00,5.83
+"Central and Southern Asia","Central Asia",Uzbekistan,2018,98.00,100.00,32.956100,52.63,440587.00,9.35
+"Central and Southern Asia","Central Asia",Uzbekistan,2019,98.00,100.00,33.580350,59.91,440555.00,8.98
+"Central and Southern Asia","Central Asia",Uzbekistan,2020,98.00,100.00,34.232050,59.89,440650.00,5.29
+"Central and Southern Asia","Southern Asia",Afghanistan,2015,67.00,45.67,33.753499,20.00,652230.00,NULL
+"Central and Southern Asia","Southern Asia",Afghanistan,2016,69.67,47.00,34.636207,18.02,652230.00,NULL
+"Central and Southern Asia","Southern Asia",Afghanistan,2017,72.33,49.33,35.643418,18.90,652230.00,11.18
+"Central and Southern Asia","Southern Asia",Afghanistan,2018,75.33,50.67,36.686784,18.42,652230.00,NULL
+"Central and Southern Asia","Southern Asia",Afghanistan,2019,78.00,52.33,37.769499,18.90,652230.00,NULL
+"Central and Southern Asia","Southern Asia",Afghanistan,2020,80.33,54.00,38.972230,20.14,652230.00,11.71
+"Central and Southern Asia","Southern Asia",Bangladesh,2015,97.33,47.33,157.830000,195.08,130170.00,NULL
+"Central and Southern Asia","Southern Asia",Bangladesh,2016,97.33,48.67,159.784568,265.24,130170.00,4.35
+"Central and Southern Asia","Southern Asia",Bangladesh,2017,97.33,50.00,161.793964,293.75,130170.00,4.37
+"Central and Southern Asia","Southern Asia",Bangladesh,2018,97.33,51.33,163.683958,321.38,130170.00,NULL
+"Central and Southern Asia","Southern Asia",Bangladesh,2019,97.67,52.67,165.516222,351.24,130170.00,NULL
+"Central and Southern Asia","Southern Asia",Bangladesh,2020,97.67,54.00,167.420951,373.90,130170.00,NULL
+"Central and Southern Asia","Southern Asia",Bhutan,2015,96.33,70.67,0.743274,2.00,38117.00,2.45
+"Central and Southern Asia","Southern Asia",Bhutan,2016,97.00,71.67,0.749761,2.16,38144.00,NULL
+"Central and Southern Asia","Southern Asia",Bhutan,2017,97.33,73.33,0.756121,2.45,38144.00,NULL
+"Central and Southern Asia","Southern Asia",Bhutan,2018,97.33,74.33,0.762096,2.45,38140.00,3.35
+"Central and Southern Asia","Southern Asia",Bhutan,2019,97.33,75.00,0.767459,2.54,38140.00,2.72
+"Central and Southern Asia","Southern Asia",Bhutan,2020,97.33,76.67,0.772506,2.33,38140.00,5.03
+"Central and Southern Asia","Southern Asia",India,2015,89.00,59.33,1322.866505,2103.59,2973190.00,NULL
+"Central and Southern Asia","Southern Asia",India,2016,89.33,62.00,1338.636340,2294.80,2973190.00,NULL
+"Central and Southern Asia","Southern Asia",India,2017,90.00,64.33,1354.195680,2651.47,2973190.00,NULL
+"Central and Southern Asia","Southern Asia",India,2018,90.33,67.00,1369.003306,2702.93,2973190.00,7.65
+"Central and Southern Asia","Southern Asia",India,2019,90.67,69.67,1383.112050,2831.55,2973190.00,6.51
+"Central and Southern Asia","Southern Asia",India,2020,91.00,72.33,1396.387127,2667.69,2973190.00,7.86
+"Central and Southern Asia","Southern Asia","Iran (Islamic Republic of)",2015,95.67,86.00,NULL,NULL,NULL,NULL
+"Central and Southern Asia","Southern Asia","Iran (Islamic Republic of)",2016,96.00,87.00,NULL,NULL,NULL,NULL
+"Central and Southern Asia","Southern Asia","Iran (Islamic Republic of)",2017,96.33,87.67,NULL,NULL,NULL,NULL
+"Central and Southern Asia","Southern Asia","Iran (Islamic Republic of)",2018,96.33,88.00,NULL,NULL,NULL,NULL
+"Central and Southern Asia","Southern Asia","Iran (Islamic Republic of)",2019,96.33,88.33,NULL,NULL,NULL,NULL
+"Central and Southern Asia","Southern Asia","Iran (Islamic Republic of)",2020,96.67,88.33,NULL,NULL,NULL,NULL
+"Central and Southern Asia","Southern Asia",Maldives,2015,99.00,94.67,0.435582,4.11,300.00,NULL
+"Central and Southern Asia","Southern Asia",Maldives,2016,99.00,95.33,0.454252,4.38,300.00,5.77
+"Central and Southern Asia","Southern Asia",Maldives,2017,99.33,96.33,0.472442,4.75,300.00,NULL
+"Central and Southern Asia","Southern Asia",Maldives,2018,99.33,97.67,0.489758,5.30,300.00,NULL
+"Central and Southern Asia","Southern Asia",Maldives,2019,99.67,98.33,0.504508,5.61,300.00,4.56
+"Central and Southern Asia","Southern Asia",Maldives,2020,99.67,99.33,0.514438,3.75,300.00,NULL
+"Central and Southern Asia","Southern Asia",Nepal,2015,88.33,60.00,27.610325,24.36,143350.00,3.10
+"Central and Southern Asia","Southern Asia",Nepal,2016,88.67,63.00,27.861186,24.52,143350.00,NULL
+"Central and Southern Asia","Southern Asia",Nepal,2017,89.00,66.67,28.183426,28.97,143350.00,10.66
+"Central and Southern Asia","Southern Asia",Nepal,2018,89.33,69.67,28.506712,33.11,143350.00,NULL
+"Central and Southern Asia","Southern Asia",Nepal,2019,90.00,73.33,28.832496,34.19,143350.00,NULL
+"Central and Southern Asia","Southern Asia",Nepal,2020,90.00,76.67,29.348627,33.43,143350.00,NULL
+"Central and Southern Asia","Southern Asia",Pakistan,2015,90.00,61.67,210.969298,270.56,770880.00,3.57
+"Central and Southern Asia","Southern Asia",Pakistan,2016,90.00,63.33,213.524840,313.63,770880.00,NULL
+"Central and Southern Asia","Southern Asia",Pakistan,2017,90.33,65.33,216.379655,339.21,770880.00,NULL
+"Central and Southern Asia","Southern Asia",Pakistan,2018,90.33,67.00,219.731479,356.13,770880.00,4.08
+"Central and Southern Asia","Southern Asia",Pakistan,2019,90.33,68.67,223.293280,320.91,770880.00,4.83
+"Central and Southern Asia","Southern Asia",Pakistan,2020,90.67,70.00,227.196741,300.43,770880.00,NULL
+"Central and Southern Asia","Southern Asia","Sri Lanka",2015,92.00,90.67,20.970000,85.14,61893.00,4.52
+"Central and Southern Asia","Southern Asia","Sri Lanka",2016,93.00,91.67,21.203000,88.01,61893.00,4.24
+"Central and Southern Asia","Southern Asia","Sri Lanka",2017,93.67,92.67,21.444000,94.38,61893.00,4.05
+"Central and Southern Asia","Southern Asia","Sri Lanka",2018,94.33,93.67,21.670000,94.49,61864.00,4.32
+"Central and Southern Asia","Southern Asia","Sri Lanka",2019,94.33,93.67,21.803000,89.01,61864.47,4.67
+"Central and Southern Asia","Southern Asia","Sri Lanka",2020,94.33,93.67,21.919000,85.35,61860.00,5.36
+"Eastern and South-Eastern Asia","Eastern Asia",China,2015,91.33,83.67,1379.860000,11061.55,9424701.40,NULL
+"Eastern and South-Eastern Asia","Eastern Asia",China,2016,91.33,85.67,1387.790000,11233.28,9424700.50,NULL
+"Eastern and South-Eastern Asia","Eastern Asia",China,2017,92.00,87.00,1396.215000,12310.41,9424700.80,3.90
+"Eastern and South-Eastern Asia","Eastern Asia",China,2018,92.67,88.33,1402.760000,13894.82,9424702.90,4.93
+"Eastern and South-Eastern Asia","Eastern Asia",China,2019,93.33,90.33,1407.745000,14279.94,9424702.90,5.15
+"Eastern and South-Eastern Asia","Eastern Asia",China,2020,93.67,91.67,1411.100000,14687.67,9424702.90,5.61
+"Eastern and South-Eastern Asia","Eastern Asia","Democratic People's Republic of Korea",2015,94.67,80.33,NULL,NULL,NULL,NULL
+"Eastern and South-Eastern Asia","Eastern Asia","Democratic People's Republic of Korea",2016,94.33,81.00,NULL,NULL,NULL,NULL
+"Eastern and South-Eastern Asia","Eastern Asia","Democratic People's Republic of Korea",2017,94.00,81.67,NULL,NULL,NULL,NULL
+"Eastern and South-Eastern Asia","Eastern Asia","Democratic People's Republic of Korea",2018,93.33,82.67,NULL,NULL,NULL,NULL
+"Eastern and South-Eastern Asia","Eastern Asia","Democratic People's Republic of Korea",2019,93.33,83.33,NULL,NULL,NULL,NULL
+"Eastern and South-Eastern Asia","Eastern Asia","Democratic People's Republic of Korea",2020,93.33,83.33,NULL,NULL,NULL,NULL
+"Eastern and South-Eastern Asia","Eastern Asia",Japan,2015,99.00,100.00,127.141000,4444.93,364500.00,3.39
+"Eastern and South-Eastern Asia","Eastern Asia",Japan,2016,99.00,100.00,127.076000,5003.68,364500.00,3.13
+"Eastern and South-Eastern Asia","Eastern Asia",Japan,2017,99.00,100.00,126.972000,4930.84,364500.00,2.82
+"Eastern and South-Eastern Asia","Eastern Asia",Japan,2018,99.00,100.00,126.811000,5037.84,364500.00,2.47
+"Eastern and South-Eastern Asia","Eastern Asia",Japan,2019,99.00,100.00,126.633000,5123.32,364500.00,2.35
+"Eastern and South-Eastern Asia","Eastern Asia",Japan,2020,99.00,100.00,126.261000,5040.11,364500.00,2.81
+"Eastern and South-Eastern Asia","Eastern Asia",Mongolia,2015,75.67,58.67,2.964749,11.62,1557255.40,4.86
+"Eastern and South-Eastern Asia","Eastern Asia",Mongolia,2016,77.00,59.67,3.029555,11.18,1557255.40,7.24
+"Eastern and South-Eastern Asia","Eastern Asia",Mongolia,2017,78.00,61.00,3.096030,11.48,1557255.40,6.36
+"Eastern and South-Eastern Asia","Eastern Asia",Mongolia,2018,79.00,62.00,3.163991,13.18,1557255.00,5.38
+"Eastern and South-Eastern Asia","Eastern Asia",Mongolia,2019,80.00,63.67,3.232430,14.21,1557258.00,9.27
+"Eastern and South-Eastern Asia","Eastern Asia",Mongolia,2020,81.00,65.00,3.294335,13.31,1557506.80,6.59
+"Eastern and South-Eastern Asia","Eastern Asia","Republic of Korea",2015,99.00,100.00,NULL,NULL,NULL,NULL
+"Eastern and South-Eastern Asia","Eastern Asia","Republic of Korea",2016,100.00,100.00,NULL,NULL,NULL,NULL
+"Eastern and South-Eastern Asia","Eastern Asia","Republic of Korea",2017,100.00,100.00,NULL,NULL,NULL,NULL
+"Eastern and South-Eastern Asia","Eastern Asia","Republic of Korea",2018,100.00,100.00,NULL,NULL,NULL,NULL
+"Eastern and South-Eastern Asia","Eastern Asia","Republic of Korea",2019,100.00,100.00,NULL,NULL,NULL,NULL
+"Eastern and South-Eastern Asia","Eastern Asia","Republic of Korea",2020,100.00,100.00,NULL,NULL,NULL,NULL
+"Eastern and South-Eastern Asia","South-Eastern Asia","Brunei Darussalam",2015,99.67,96.00,0.421437,12.93,5270.00,NULL
+"Eastern and South-Eastern Asia","South-Eastern Asia","Brunei Darussalam",2016,100.00,NULL,0.425994,11.40,5270.00,NULL
+"Eastern and South-Eastern Asia","South-Eastern Asia","Brunei Darussalam",2017,100.00,NULL,0.430276,12.13,5270.00,9.32
+"Eastern and South-Eastern Asia","South-Eastern Asia","Brunei Darussalam",2018,100.00,NULL,0.434274,13.57,5270.00,8.70
+"Eastern and South-Eastern Asia","South-Eastern Asia","Brunei Darussalam",2019,100.00,NULL,0.438048,13.47,5270.00,6.60
+"Eastern and South-Eastern Asia","South-Eastern Asia","Brunei Darussalam",2020,100.00,NULL,0.441725,12.01,5270.00,7.41
+"Eastern and South-Eastern Asia","South-Eastern Asia",Cambodia,2015,73.33,60.33,15.417523,18.05,176520.00,0.39
+"Eastern and South-Eastern Asia","South-Eastern Asia",Cambodia,2016,73.67,63.00,15.624584,20.02,176520.00,0.72
+"Eastern and South-Eastern Asia","South-Eastern Asia",Cambodia,2017,74.33,65.67,15.830689,22.18,176520.00,0.14
+"Eastern and South-Eastern Asia","South-Eastern Asia",Cambodia,2018,74.67,68.33,16.025238,24.57,176520.00,NULL
+"Eastern and South-Eastern Asia","South-Eastern Asia",Cambodia,2019,75.33,71.67,16.207746,27.09,176520.00,0.50
+"Eastern and South-Eastern Asia","South-Eastern Asia",Cambodia,2020,75.33,74.33,16.396860,25.87,176520.00,NULL
+"Eastern and South-Eastern Asia","South-Eastern Asia",Indonesia,2015,88.33,73.33,259.091970,860.85,1877519.00,4.51
+"Eastern and South-Eastern Asia","South-Eastern Asia",Indonesia,2016,89.00,75.33,261.850182,931.88,1877519.00,4.30
+"Eastern and South-Eastern Asia","South-Eastern Asia",Indonesia,2017,89.67,78.33,264.498852,1015.62,1877519.00,3.78
+"Eastern and South-Eastern Asia","South-Eastern Asia",Indonesia,2018,90.67,80.67,267.066843,1042.27,1877519.00,4.39
+"Eastern and South-Eastern Asia","South-Eastern Asia",Indonesia,2019,91.33,83.33,269.582878,1119.10,1877519.00,3.59
+"Eastern and South-Eastern Asia","South-Eastern Asia",Indonesia,2020,92.00,86.00,271.857970,1058.69,1877519.00,4.25
+"Eastern and South-Eastern Asia","South-Eastern Asia","Lao People's Democratic Republic",2015,79.67,73.67,NULL,NULL,NULL,NULL
+"Eastern and South-Eastern Asia","South-Eastern Asia","Lao People's Democratic Republic",2016,82.00,75.67,NULL,NULL,NULL,NULL
+"Eastern and South-Eastern Asia","South-Eastern Asia","Lao People's Democratic Republic",2017,83.33,78.33,NULL,NULL,NULL,NULL
+"Eastern and South-Eastern Asia","South-Eastern Asia","Lao People's Democratic Republic",2018,85.00,80.00,NULL,NULL,NULL,NULL
+"Eastern and South-Eastern Asia","South-Eastern Asia","Lao People's Democratic Republic",2019,86.67,82.00,NULL,NULL,NULL,NULL
+"Eastern and South-Eastern Asia","South-Eastern Asia","Lao People's Democratic Republic",2020,86.67,82.00,NULL,NULL,NULL,NULL
+"Eastern and South-Eastern Asia","South-Eastern Asia",Malaysia,2015,95.67,99.67,31.068833,301.35,328550.00,3.10
+"Eastern and South-Eastern Asia","South-Eastern Asia",Malaysia,2016,95.67,99.67,31.526418,301.26,328550.00,3.44
+"Eastern and South-Eastern Asia","South-Eastern Asia",Malaysia,2017,95.67,99.67,31.975806,319.11,328550.00,3.41
+"Eastern and South-Eastern Asia","South-Eastern Asia",Malaysia,2018,95.33,99.67,32.399271,358.79,328550.00,3.30
+"Eastern and South-Eastern Asia","South-Eastern Asia",Malaysia,2019,95.33,100.00,32.804020,365.18,328550.00,3.26
+"Eastern and South-Eastern Asia","South-Eastern Asia",Malaysia,2020,95.33,100.00,33.199993,337.34,328550.00,4.54
+"Eastern and South-Eastern Asia","South-Eastern Asia",Myanmar,2015,76.33,73.00,51.483949,63.05,653080.00,0.77
+"Eastern and South-Eastern Asia","South-Eastern Asia",Myanmar,2016,78.33,73.33,51.892349,60.29,652780.00,NULL
+"Eastern and South-Eastern Asia","South-Eastern Asia",Myanmar,2017,80.33,73.67,52.288341,61.45,652750.00,1.36
+"Eastern and South-Eastern Asia","South-Eastern Asia",Myanmar,2018,82.33,74.33,52.666014,67.14,652700.00,0.77
+"Eastern and South-Eastern Asia","South-Eastern Asia",Myanmar,2019,84.00,74.00,53.040212,68.70,652700.00,0.41
+"Eastern and South-Eastern Asia","South-Eastern Asia",Myanmar,2020,85.67,74.67,53.423198,78.93,652670.00,1.48
+"Eastern and South-Eastern Asia","South-Eastern Asia",Philippines,2015,92.00,75.33,103.031365,306.45,298170.00,3.07
+"Eastern and South-Eastern Asia","South-Eastern Asia",Philippines,2016,92.67,76.67,104.875266,318.63,298170.00,2.70
+"Eastern and South-Eastern Asia","South-Eastern Asia",Philippines,2017,93.00,78.00,106.738501,328.48,298170.00,2.55
+"Eastern and South-Eastern Asia","South-Eastern Asia",Philippines,2018,93.33,79.33,108.568836,346.84,298170.00,2.34
+"Eastern and South-Eastern Asia","South-Eastern Asia",Philippines,2019,93.67,81.00,110.380804,376.82,298170.00,2.24
+"Eastern and South-Eastern Asia","South-Eastern Asia",Philippines,2020,94.00,82.00,112.190977,361.75,298170.00,2.52
+"Eastern and South-Eastern Asia","South-Eastern Asia",Singapore,2015,100.00,100.00,5.535002,308.00,709.00,3.79
+"Eastern and South-Eastern Asia","South-Eastern Asia",Singapore,2016,100.00,100.00,5.607283,318.83,709.00,4.08
+"Eastern and South-Eastern Asia","South-Eastern Asia",Singapore,2017,100.00,100.00,5.612253,343.19,712.00,4.20
+"Eastern and South-Eastern Asia","South-Eastern Asia",Singapore,2018,100.00,100.00,5.638676,377.00,714.00,NULL
+"Eastern and South-Eastern Asia","South-Eastern Asia",Singapore,2019,100.00,100.00,5.703569,375.47,716.00,3.10
+"Eastern and South-Eastern Asia","South-Eastern Asia",Singapore,2020,100.00,100.00,5.685807,345.30,718.00,4.10
+"Eastern and South-Eastern Asia","South-Eastern Asia",Thailand,2015,99.33,97.00,70.294397,401.30,510890.00,0.60
+"Eastern and South-Eastern Asia","South-Eastern Asia",Thailand,2016,99.33,97.33,70.607037,413.37,510890.00,0.69
+"Eastern and South-Eastern Asia","South-Eastern Asia",Thailand,2017,100.00,98.00,70.898202,456.36,510890.00,0.83
+"Eastern and South-Eastern Asia","South-Eastern Asia",Thailand,2018,100.00,98.00,71.127802,506.75,510890.00,0.77
+"Eastern and South-Eastern Asia","South-Eastern Asia",Thailand,2019,100.00,98.33,71.307763,544.08,510890.00,0.72
+"Eastern and South-Eastern Asia","South-Eastern Asia",Thailand,2020,100.00,98.67,71.475664,499.68,510890.00,1.10
+"Eastern and South-Eastern Asia","South-Eastern Asia",Timor-Leste,2015,78.00,55.00,1.205813,1.59,14870.00,NULL
+"Eastern and South-Eastern Asia","South-Eastern Asia",Timor-Leste,2016,80.67,55.67,1.224562,1.65,14870.00,4.66
+"Eastern and South-Eastern Asia","South-Eastern Asia",Timor-Leste,2017,82.33,57.33,1.243235,1.60,14870.00,NULL
+"Eastern and South-Eastern Asia","South-Eastern Asia",Timor-Leste,2018,84.33,58.00,1.261845,1.56,14870.00,NULL
+"Eastern and South-Eastern Asia","South-Eastern Asia",Timor-Leste,2019,86.00,59.00,1.280438,2.03,14870.00,NULL
+"Eastern and South-Eastern Asia","South-Eastern Asia",Timor-Leste,2020,87.00,60.00,1.299995,2.16,14870.00,NULL
+"Eastern and South-Eastern Asia","South-Eastern Asia","Viet Nam",2015,94.00,83.00,NULL,NULL,NULL,NULL
+"Eastern and South-Eastern Asia","South-Eastern Asia","Viet Nam",2016,95.00,84.67,NULL,NULL,NULL,NULL
+"Eastern and South-Eastern Asia","South-Eastern Asia","Viet Nam",2017,95.67,85.67,NULL,NULL,NULL,NULL
+"Eastern and South-Eastern Asia","South-Eastern Asia","Viet Nam",2018,96.33,87.33,NULL,NULL,NULL,NULL
+"Eastern and South-Eastern Asia","South-Eastern Asia","Viet Nam",2019,96.67,89.00,NULL,NULL,NULL,NULL
+"Eastern and South-Eastern Asia","South-Eastern Asia","Viet Nam",2020,97.33,90.00,NULL,NULL,NULL,NULL
+"Europe and Northern America","Northern America",Bermuda,2015,100.00,100.00,0.065237,6.65,54.00,NULL
+"Europe and Northern America","Northern America",Bermuda,2016,100.00,100.00,0.064554,6.90,54.00,NULL
+"Europe and Northern America","Northern America",Bermuda,2017,100.00,100.00,0.063873,7.14,54.00,NULL
+"Europe and Northern America","Northern America",Bermuda,2018,100.00,100.00,0.063918,7.23,54.00,NULL
+"Europe and Northern America","Northern America",Bermuda,2019,100.00,100.00,0.063911,7.42,54.00,NULL
+"Europe and Northern America","Northern America",Bermuda,2020,100.00,100.00,0.063893,6.89,54.00,NULL
+"Europe and Northern America","Northern America",Canada,2015,99.00,99.00,35.702908,1556.51,8965590.00,6.91
+"Europe and Northern America","Northern America",Canada,2016,99.00,99.00,36.109487,1527.99,8965590.00,7.00
+"Europe and Northern America","Northern America",Canada,2017,99.00,99.00,36.545236,1649.27,8965590.00,6.34
+"Europe and Northern America","Northern America",Canada,2018,99.00,99.00,37.065084,1725.33,8965590.00,5.83
+"Europe and Northern America","Northern America",Canada,2019,99.00,99.00,37.601230,1742.02,8965590.00,5.66
+"Europe and Northern America","Northern America",Canada,2020,99.00,99.00,38.037204,1645.42,8965590.00,9.46
+"Europe and Northern America","Northern America",Greenland,2015,100.00,100.00,0.056114,2.50,410450.00,9.10
+"Europe and Northern America","Northern America",Greenland,2016,100.00,100.00,0.056186,2.71,410450.00,NULL
+"Europe and Northern America","Northern America",Greenland,2017,100.00,100.00,0.056171,2.85,410450.00,NULL
+"Europe and Northern America","Northern America",Greenland,2018,100.00,100.00,0.056023,3.06,410450.00,NULL
+"Europe and Northern America","Northern America",Greenland,2019,100.00,100.00,0.056225,2.99,410450.00,NULL
+"Europe and Northern America","Northern America",Greenland,2020,100.00,100.00,0.056367,3.08,410450.00,NULL
+"Europe and Northern America","Northern America","Saint Pierre and Miquelon",2015,91.00,100.00,NULL,NULL,NULL,NULL
+"Europe and Northern America","Northern America","Saint Pierre and Miquelon",2016,91.00,100.00,NULL,NULL,NULL,NULL
+"Europe and Northern America","Northern America","Saint Pierre and Miquelon",2017,91.00,100.00,NULL,NULL,NULL,NULL
+"Europe and Northern America","Northern America","Saint Pierre and Miquelon",2018,91.00,100.00,NULL,NULL,NULL,NULL
+"Europe and Northern America","Northern America","Saint Pierre and Miquelon",2019,91.00,100.00,NULL,NULL,NULL,NULL
+"Europe and Northern America","Northern America","Saint Pierre and Miquelon",2020,91.00,100.00,NULL,NULL,NULL,NULL
+"Europe and Northern America","Northern America","United States of America",2015,99.00,99.67,NULL,NULL,NULL,NULL
+"Europe and Northern America","Northern America","United States of America",2016,99.33,99.67,NULL,NULL,NULL,NULL
+"Europe and Northern America","Northern America","United States of America",2017,99.67,99.67,NULL,NULL,NULL,NULL
+"Europe and Northern America","Northern America","United States of America",2018,99.67,99.67,NULL,NULL,NULL,NULL
+"Europe and Northern America","Northern America","United States of America",2019,99.67,99.67,NULL,NULL,NULL,NULL
+"Europe and Northern America","Northern America","United States of America",2020,100.00,99.67,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,Anguilla,2015,97.00,97.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,Anguilla,2016,97.00,97.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,Anguilla,2017,97.00,97.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"Antigua and Barbuda",2015,97.00,88.00,0.089941,1.34,440.00,NULL
+"Latin America and the Caribbean",Caribbean,"Antigua and Barbuda",2016,97.00,88.00,0.090564,1.44,440.00,NULL
+"Latin America and the Caribbean",Caribbean,"Antigua and Barbuda",2017,97.00,88.00,0.091119,1.47,440.00,NULL
+"Latin America and the Caribbean",Caribbean,Aruba,2015,98.00,98.00,0.104257,2.96,180.00,NULL
+"Latin America and the Caribbean",Caribbean,Aruba,2016,98.00,98.00,0.104874,2.98,180.00,NULL
+"Latin America and the Caribbean",Caribbean,Bahamas,2015,99.00,95.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,Bahamas,2016,99.00,95.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,Bahamas,2017,99.00,95.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,Bahamas,2018,99.00,95.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,Bahamas,2019,99.00,95.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,Barbados,2015,98.00,96.00,0.278083,4.72,430.00,9.80
+"Latin America and the Caribbean",Caribbean,Barbados,2016,98.00,97.00,0.278649,4.83,430.00,8.25
+"Latin America and the Caribbean",Caribbean,Barbados,2017,98.00,97.00,0.279187,4.98,430.00,8.62
+"Latin America and the Caribbean",Caribbean,Barbados,2018,99.00,97.00,0.279688,5.10,430.00,8.32
+"Latin America and the Caribbean",Caribbean,Barbados,2019,99.00,98.00,0.280180,5.32,430.00,8.41
+"Latin America and the Caribbean",Caribbean,Barbados,2020,99.00,98.00,0.280693,4.67,430.00,NULL
+"Latin America and the Caribbean",Caribbean,"British Virgin Islands",2015,100.00,97.00,0.029366,NULL,150.00,NULL
+"Latin America and the Caribbean",Caribbean,"British Virgin Islands",2016,100.00,97.00,0.029739,NULL,150.00,NULL
+"Latin America and the Caribbean",Caribbean,"British Virgin Islands",2017,100.00,NULL,0.030060,NULL,150.00,NULL
+"Latin America and the Caribbean",Caribbean,"British Virgin Islands",2018,100.00,NULL,0.030335,NULL,150.00,NULL
+"Latin America and the Caribbean",Caribbean,"British Virgin Islands",2019,100.00,NULL,0.030610,NULL,150.00,NULL
+"Latin America and the Caribbean",Caribbean,"British Virgin Islands",2020,100.00,NULL,0.030910,NULL,150.00,NULL
+"Latin America and the Caribbean",Caribbean,"Cayman Islands",2015,96.00,84.00,0.060911,4.71,240.00,4.24
+"Latin America and the Caribbean",Caribbean,"Cayman Islands",2016,96.00,84.00,0.062255,4.91,240.00,NULL
+"Latin America and the Caribbean",Caribbean,Cuba,2015,94.67,88.67,11.339894,87.13,104100.00,2.40
+"Latin America and the Caribbean",Caribbean,Cuba,2016,95.00,89.00,11.342012,91.37,104040.00,2.00
+"Latin America and the Caribbean",Caribbean,Cuba,2017,95.33,89.33,11.336405,96.85,103800.00,1.70
+"Latin America and the Caribbean",Caribbean,Cuba,2018,96.00,89.67,11.328244,100.05,103800.00,1.70
+"Latin America and the Caribbean",Caribbean,Cuba,2019,96.33,90.00,11.316697,103.43,103800.00,NULL
+"Latin America and the Caribbean",Caribbean,Cuba,2020,96.33,90.00,11.300698,107.35,103800.00,NULL
+"Latin America and the Caribbean",Caribbean,Curaçao,2015,99.00,99.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,Curaçao,2016,99.00,99.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,Curaçao,2017,99.00,99.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,Dominica,2015,95.00,80.00,0.070007,0.54,750.00,NULL
+"Latin America and the Caribbean",Caribbean,Dominica,2016,95.00,80.00,0.070075,0.58,750.00,NULL
+"Latin America and the Caribbean",Caribbean,Dominica,2017,95.00,80.00,0.070403,0.52,750.00,NULL
+"Latin America and the Caribbean",Caribbean,"Dominican Republic",2015,94.33,82.33,10.405832,71.16,48310.00,7.61
+"Latin America and the Caribbean",Caribbean,"Dominican Republic",2016,94.67,83.00,10.527592,75.70,48310.00,7.28
+"Latin America and the Caribbean",Caribbean,"Dominican Republic",2017,94.67,83.33,10.647244,80.00,48310.00,5.83
+"Latin America and the Caribbean",Caribbean,"Dominican Republic",2018,95.00,83.67,10.765531,85.56,48310.00,5.86
+"Latin America and the Caribbean",Caribbean,"Dominican Republic",2019,95.00,84.33,10.881882,88.94,48310.00,6.18
+"Latin America and the Caribbean",Caribbean,"Dominican Republic",2020,95.00,84.33,10.999664,78.84,48310.00,6.13
+"Latin America and the Caribbean",Caribbean,Grenada,2015,96.00,91.00,0.118980,1.00,340.00,22.90
+"Latin America and the Caribbean",Caribbean,Grenada,2016,96.00,91.00,0.119966,1.06,340.00,NULL
+"Latin America and the Caribbean",Caribbean,Grenada,2017,96.00,91.00,0.120921,1.13,340.00,NULL
+"Latin America and the Caribbean",Caribbean,Guadeloupe,2015,100.00,99.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,Guadeloupe,2016,100.00,99.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,Guadeloupe,2017,100.00,99.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,Guadeloupe,2018,100.00,99.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,Guadeloupe,2019,100.00,100.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,Guadeloupe,2020,100.00,100.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,Haiti,2015,64.00,32.33,10.563757,14.83,27560.00,NULL
+"Latin America and the Caribbean",Caribbean,Haiti,2016,64.33,33.33,10.713849,13.99,27560.00,NULL
+"Latin America and the Caribbean",Caribbean,Haiti,2017,64.33,34.33,10.863543,15.04,27560.00,NULL
+"Latin America and the Caribbean",Caribbean,Haiti,2018,64.67,35.33,11.012421,16.46,27560.00,NULL
+"Latin America and the Caribbean",Caribbean,Haiti,2019,64.67,36.00,11.160438,14.79,27560.00,NULL
+"Latin America and the Caribbean",Caribbean,Haiti,2020,65.00,36.00,11.306801,14.51,27560.00,NULL
+"Latin America and the Caribbean",Caribbean,Jamaica,2015,90.00,86.00,2.794445,14.19,10830.00,13.51
+"Latin America and the Caribbean",Caribbean,Jamaica,2016,90.33,86.00,2.802695,14.08,10830.00,8.63
+"Latin America and the Caribbean",Caribbean,Jamaica,2017,90.33,86.33,2.808376,14.81,10830.00,7.40
+"Latin America and the Caribbean",Caribbean,Jamaica,2018,90.33,86.67,2.811835,15.73,10830.00,5.47
+"Latin America and the Caribbean",Caribbean,Jamaica,2019,90.33,87.00,2.813773,15.83,10830.00,4.99
+"Latin America and the Caribbean",Caribbean,Jamaica,2020,90.33,87.00,2.820436,13.81,10830.00,6.50
+"Latin America and the Caribbean",Caribbean,Martinique,2015,100.00,99.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,Martinique,2016,100.00,99.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,Martinique,2017,100.00,99.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,Martinique,2018,100.00,99.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,Martinique,2019,100.00,100.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,Martinique,2020,100.00,100.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,Montserrat,2015,98.00,87.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,Montserrat,2016,98.00,88.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,Montserrat,2017,98.00,88.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,Montserrat,2018,98.00,88.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,Montserrat,2019,98.00,89.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,Montserrat,2020,98.00,89.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"Puerto Rico",2015,99.00,100.00,3.473232,103.38,8870.00,12.00
+"Latin America and the Caribbean",Caribbean,"Puerto Rico",2016,100.00,100.00,3.406672,104.34,8870.00,11.80
+"Latin America and the Caribbean",Caribbean,"Puerto Rico",2017,100.00,100.00,3.325286,103.45,8870.00,10.80
+"Latin America and the Caribbean",Caribbean,"Puerto Rico",2018,100.00,100.00,3.193354,100.96,8870.00,9.20
+"Latin America and the Caribbean",Caribbean,"Puerto Rico",2019,100.00,100.00,3.193694,105.13,8870.00,8.30
+"Latin America and the Caribbean",Caribbean,"Puerto Rico",2020,100.00,100.00,3.281538,103.02,8870.00,NULL
+"Latin America and the Caribbean",Caribbean,"Saint Barthélemy",2015,100.00,100.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"Saint Barthélemy",2016,100.00,100.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"Saint Barthélemy",2017,100.00,100.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"Saint Barthélemy",2018,100.00,100.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"Saint Barthélemy",2019,100.00,100.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"Saint Barthélemy",2020,100.00,100.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"Saint Kitts and Nevis",2015,99.00,95.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"Saint Kitts and Nevis",2016,99.00,95.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"Saint Kitts and Nevis",2017,99.00,95.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"Saint Lucia",2015,96.00,81.33,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"Saint Lucia",2016,96.33,81.67,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"Saint Lucia",2017,96.33,82.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"Saint Lucia",2018,97.00,82.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"Saint Lucia",2019,97.00,82.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"Saint Lucia",2020,97.00,82.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"Saint Martin (French Part)",2015,100.00,100.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"Saint Martin (French Part)",2016,100.00,100.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"Saint Martin (French Part)",2017,100.00,100.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"Saint Martin (French Part)",2018,100.00,100.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"Saint Martin (French Part)",2019,100.00,100.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"Saint Martin (French Part)",2020,100.00,100.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"Saint Vincent and the Grenadines",2015,95.00,87.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"Saint Vincent and the Grenadines",2016,95.00,87.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"Saint Vincent and the Grenadines",2017,95.00,87.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"Saint Vincent and the Grenadines",2018,95.00,87.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"Sint Maarten (Dutch part)",2015,95.00,99.00,0.038825,1.25,34.00,NULL
+"Latin America and the Caribbean",Caribbean,"Sint Maarten (Dutch part)",2016,95.00,99.00,0.039969,1.26,34.00,NULL
+"Latin America and the Caribbean",Caribbean,"Sint Maarten (Dutch part)",2017,95.00,99.00,0.040574,1.19,34.00,NULL
+"Latin America and the Caribbean",Caribbean,"Trinidad and Tobago",2015,98.00,94.00,1.460177,26.85,5130.00,2.43
+"Latin America and the Caribbean",Caribbean,"Trinidad and Tobago",2016,99.00,94.00,1.469330,23.50,5130.00,3.21
+"Latin America and the Caribbean",Caribbean,"Trinidad and Tobago",2017,99.00,94.00,1.478607,23.80,5130.00,NULL
+"Latin America and the Caribbean",Caribbean,"Trinidad and Tobago",2018,99.00,94.00,1.504709,24.32,5130.00,NULL
+"Latin America and the Caribbean",Caribbean,"Trinidad and Tobago",2019,99.00,94.00,1.519955,23.85,5130.00,3.52
+"Latin America and the Caribbean",Caribbean,"Trinidad and Tobago",2020,99.00,94.00,1.518147,21.06,5130.00,4.21
+"Latin America and the Caribbean",Caribbean,"Turks and Caicos Islands",2015,94.00,88.00,0.036538,0.94,950.00,NULL
+"Latin America and the Caribbean",Caribbean,"Turks and Caicos Islands",2016,94.00,88.00,0.038246,1.03,950.00,NULL
+"Latin America and the Caribbean",Caribbean,"Turks and Caicos Islands",2017,94.00,88.00,0.039844,1.02,950.00,NULL
+"Latin America and the Caribbean",Caribbean,"Turks and Caicos Islands",2018,94.00,88.00,0.041487,1.11,950.00,NULL
+"Latin America and the Caribbean",Caribbean,"United States Virgin Islands",2015,99.00,99.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"United States Virgin Islands",2016,99.00,99.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"United States Virgin Islands",2017,99.00,99.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"United States Virgin Islands",2018,99.00,99.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"United States Virgin Islands",2019,99.00,99.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean",Caribbean,"United States Virgin Islands",2020,99.00,99.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean","Central America",Belize,2015,97.33,87.33,0.359871,2.21,22810.00,7.58
+"Latin America and the Caribbean","Central America",Belize,2016,97.67,88.00,0.367313,2.26,22810.00,7.00
+"Latin America and the Caribbean","Central America",Belize,2017,98.00,88.00,0.374693,2.29,22810.00,6.60
+"Latin America and the Caribbean","Central America",Belize,2018,98.33,88.67,0.382066,2.31,22810.00,NULL
+"Latin America and the Caribbean","Central America",Belize,2019,98.33,88.67,0.389095,2.42,22810.00,9.05
+"Latin America and the Caribbean","Central America",Belize,2020,98.33,88.67,0.394921,2.08,22810.00,NULL
+"Latin America and the Caribbean","Central America","Costa Rica",2015,99.00,96.33,4.895242,56.44,51060.00,8.42
+"Latin America and the Caribbean","Central America","Costa Rica",2016,99.67,96.67,4.945205,58.85,51060.00,8.09
+"Latin America and the Caribbean","Central America","Costa Rica",2017,100.00,96.67,4.993842,60.52,51060.00,7.73
+"Latin America and the Caribbean","Central America","Costa Rica",2018,100.00,97.33,5.040734,62.42,51060.00,9.01
+"Latin America and the Caribbean","Central America","Costa Rica",2019,100.00,97.33,5.084532,64.42,51060.00,10.81
+"Latin America and the Caribbean","Central America","Costa Rica",2020,100.00,97.67,5.123105,62.16,51060.00,16.43
+"Latin America and the Caribbean","Central America","El Salvador",2015,94.33,81.00,6.231066,23.44,20720.00,4.00
+"Latin America and the Caribbean","Central America","El Salvador",2016,95.33,81.00,6.250510,24.19,20720.00,4.42
+"Latin America and the Caribbean","Central America","El Salvador",2017,96.00,80.67,6.266654,24.98,20720.00,4.39
+"Latin America and the Caribbean","Central America","El Salvador",2018,97.00,80.33,6.276342,26.02,20720.00,4.01
+"Latin America and the Caribbean","Central America","El Salvador",2019,97.00,80.33,6.280217,26.88,20720.00,4.17
+"Latin America and the Caribbean","Central America","El Salvador",2020,97.00,79.67,6.292731,24.56,20720.00,5.01
+"Latin America and the Caribbean","Central America",Guatemala,2015,92.00,67.00,15.567419,62.19,107160.00,2.51
+"Latin America and the Caribbean","Central America",Guatemala,2016,92.33,67.00,15.827690,66.05,107160.00,2.58
+"Latin America and the Caribbean","Central America",Guatemala,2017,92.67,67.00,16.087418,71.65,107160.00,2.46
+"Latin America and the Caribbean","Central America",Guatemala,2018,93.00,67.33,16.346950,73.33,107160.00,2.28
+"Latin America and the Caribbean","Central America",Guatemala,2019,94.00,67.67,16.604026,77.17,107160.00,2.19
+"Latin America and the Caribbean","Central America",Guatemala,2020,94.00,67.67,16.858333,77.63,107160.00,NULL
+"Latin America and the Caribbean","Central America",Honduras,2015,92.67,78.67,9.294505,20.98,111890.00,6.15
+"Latin America and the Caribbean","Central America",Honduras,2016,93.33,79.67,9.460798,21.72,111890.00,6.73
+"Latin America and the Caribbean","Central America",Honduras,2017,93.67,80.67,9.626842,23.14,111890.00,5.53
+"Latin America and the Caribbean","Central America",Honduras,2018,94.33,81.67,9.792850,24.07,111890.00,5.62
+"Latin America and the Caribbean","Central America",Honduras,2019,94.67,82.67,9.958829,25.09,111890.00,5.55
+"Latin America and the Caribbean","Central America",Honduras,2020,95.33,83.33,10.121763,23.83,111890.00,10.68
+"Latin America and the Caribbean","Central America",Mexico,2015,96.67,86.33,120.149897,1171.87,1943950.00,4.31
+"Latin America and the Caribbean","Central America",Mexico,2016,97.33,87.33,121.519221,1078.49,1943950.00,3.85
+"Latin America and the Caribbean","Central America",Mexico,2017,98.00,88.00,122.839258,1158.91,1943950.00,3.42
+"Latin America and the Caribbean","Central America",Mexico,2018,98.33,89.00,124.013861,1222.41,1943950.00,3.27
+"Latin America and the Caribbean","Central America",Mexico,2019,98.67,90.00,125.085311,1269.01,1943950.00,3.48
+"Latin America and the Caribbean","Central America",Mexico,2020,99.33,90.67,125.998302,1090.52,1943950.00,4.44
+"Latin America and the Caribbean","Central America",Nicaragua,2015,79.33,71.00,6.298598,12.76,120340.00,4.70
+"Latin America and the Caribbean","Central America",Nicaragua,2016,79.00,71.67,6.389235,13.29,120340.00,3.90
+"Latin America and the Caribbean","Central America",Nicaragua,2017,79.00,71.67,6.480532,13.79,120340.00,3.30
+"Latin America and the Caribbean","Central America",Nicaragua,2018,79.33,71.67,6.572233,13.03,120340.00,5.20
+"Latin America and the Caribbean","Central America",Nicaragua,2019,79.33,71.67,6.663924,12.60,120340.00,NULL
+"Latin America and the Caribbean","Central America",Nicaragua,2020,79.33,71.67,6.755895,12.59,120340.00,NULL
+"Latin America and the Caribbean","Central America",Panama,2015,91.67,75.67,3.957099,54.09,74120.00,4.40
+"Latin America and the Caribbean","Central America",Panama,2016,91.67,76.67,4.026336,57.91,74120.00,4.84
+"Latin America and the Caribbean","Central America",Panama,2017,92.33,77.67,4.096063,62.20,74120.00,5.46
+"Latin America and the Caribbean","Central America",Panama,2018,92.33,78.67,4.165255,64.93,74180.00,5.31
+"Latin America and the Caribbean","Central America",Panama,2019,92.67,79.67,4.232532,66.98,74180.00,6.41
+"Latin America and the Caribbean","Central America",Panama,2020,92.67,81.00,4.294396,53.98,74180.00,18.55
+"Latin America and the Caribbean","South America",Argentina,2015,97.33,89.67,43.131966,594.75,2736690.00,NULL
+"Latin America and the Caribbean","South America",Argentina,2016,97.33,89.67,43.590368,557.53,2736690.00,NULL
+"Latin America and the Caribbean","South America",Argentina,2017,100.00,97.00,44.044811,643.63,2736690.00,8.35
+"Latin America and the Caribbean","South America",Argentina,2018,100.00,98.00,44.494502,524.82,2736690.00,9.22
+"Latin America and the Caribbean","South America",Argentina,2019,100.00,98.00,44.938712,447.75,2736690.00,9.84
+"Latin America and the Caribbean","South America",Argentina,2020,100.00,99.00,45.376763,385.54,2736690.00,11.46
+"Latin America and the Caribbean","South America","Bolivia (Plurinational State of)",2015,87.33,53.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean","South America","Bolivia (Plurinational State of)",2016,88.00,54.33,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean","South America","Bolivia (Plurinational State of)",2017,89.00,56.33,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean","South America","Bolivia (Plurinational State of)",2018,89.67,58.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean","South America","Bolivia (Plurinational State of)",2019,90.33,59.67,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean","South America","Bolivia (Plurinational State of)",2020,90.67,61.67,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean","South America",Brazil,2015,95.33,77.67,205.188205,1802.21,8358140.00,8.54
+"Latin America and the Caribbean","South America",Brazil,2016,95.33,79.00,206.859578,1795.70,8358140.00,11.58
+"Latin America and the Caribbean","South America",Brazil,2017,96.33,79.67,208.504960,2063.51,8358140.00,12.79
+"Latin America and the Caribbean","South America",Brazil,2018,97.00,80.33,210.166592,1916.95,8358140.00,12.33
+"Latin America and the Caribbean","South America",Brazil,2019,97.33,81.67,211.782878,1873.27,8358140.00,11.94
+"Latin America and the Caribbean","South America",Brazil,2020,98.33,82.33,213.196304,1448.56,8358140.00,13.70
+"Latin America and the Caribbean","South America",Chile,2015,99.00,98.67,17.870124,242.50,743532.00,6.49
+"Latin America and the Caribbean","South America",Chile,2016,99.67,99.67,18.083879,249.30,743532.00,6.73
+"Latin America and the Caribbean","South America",Chile,2017,100.00,100.00,18.368577,276.36,743532.00,6.95
+"Latin America and the Caribbean","South America",Chile,2018,100.00,100.00,18.701450,295.40,743532.00,7.21
+"Latin America and the Caribbean","South America",Chile,2019,100.00,100.00,19.039485,278.58,743532.00,7.27
+"Latin America and the Caribbean","South America",Chile,2020,100.00,100.00,19.300315,252.73,743532.00,10.94
+"Latin America and the Caribbean","South America",Colombia,2015,93.00,86.33,47.119728,293.48,1109500.00,8.57
+"Latin America and the Caribbean","South America",Colombia,2016,93.67,87.33,47.625955,282.83,1109500.00,8.92
+"Latin America and the Caribbean","South America",Colombia,2017,94.00,88.00,48.351671,311.88,1109500.00,9.09
+"Latin America and the Caribbean","South America",Colombia,2018,94.00,89.33,49.276961,334.20,1109500.00,9.36
+"Latin America and the Caribbean","South America",Colombia,2019,94.33,90.33,50.187406,323.11,1109500.00,10.28
+"Latin America and the Caribbean","South America",Colombia,2020,94.67,91.33,50.930662,270.30,1109500.00,15.98
+"Latin America and the Caribbean","South America",Ecuador,2015,91.67,85.33,16.195902,99.29,248360.00,3.62
+"Latin America and the Caribbean","South America",Ecuador,2016,92.33,87.00,16.439585,99.94,248360.00,4.60
+"Latin America and the Caribbean","South America",Ecuador,2017,92.67,88.33,16.696944,104.30,248360.00,3.84
+"Latin America and the Caribbean","South America",Ecuador,2018,93.33,89.33,17.015672,107.56,248360.00,3.53
+"Latin America and the Caribbean","South America",Ecuador,2019,93.67,90.00,17.343740,108.11,248360.00,3.81
+"Latin America and the Caribbean","South America",Ecuador,2020,94.00,91.33,17.588595,99.29,248360.00,6.11
+"Latin America and the Caribbean","South America","Falkland Islands (Malvinas)",2015,91.00,100.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean","South America","Falkland Islands (Malvinas)",2016,91.00,100.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean","South America","Falkland Islands (Malvinas)",2017,91.00,100.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean","South America","Falkland Islands (Malvinas)",2018,91.00,100.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean","South America","Falkland Islands (Malvinas)",2019,91.00,100.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean","South America","Falkland Islands (Malvinas)",2020,91.00,100.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean","South America","French Guiana",2015,94.00,92.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean","South America","French Guiana",2016,94.00,92.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean","South America","French Guiana",2017,94.00,92.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean","South America","French Guiana",2018,94.00,92.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean","South America","French Guiana",2019,94.00,92.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean","South America","French Guiana",2020,94.00,92.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean","South America",Guyana,2015,96.00,86.33,0.755031,4.28,196850.00,NULL
+"Latin America and the Caribbean","South America",Guyana,2016,96.67,87.33,0.759087,4.48,196850.00,NULL
+"Latin America and the Caribbean","South America",Guyana,2017,96.67,87.33,0.763252,4.75,196850.00,NULL
+"Latin America and the Caribbean","South America",Guyana,2018,96.67,87.33,0.785514,4.79,196850.00,14.02
+"Latin America and the Caribbean","South America",Guyana,2019,96.67,87.33,0.798753,5.17,196850.00,13.52
+"Latin America and the Caribbean","South America",Guyana,2020,96.67,87.33,0.797202,5.47,196850.00,NULL
+"Latin America and the Caribbean","South America",Paraguay,2015,96.33,86.67,6.177950,36.21,397300.00,4.56
+"Latin America and the Caribbean","South America",Paraguay,2016,97.67,87.67,6.266615,36.09,397300.00,5.25
+"Latin America and the Caribbean","South America",Paraguay,2017,99.33,89.00,6.355404,39.00,397300.00,4.61
+"Latin America and the Caribbean","South America",Paraguay,2018,99.67,90.00,6.443328,40.23,397300.00,6.22
+"Latin America and the Caribbean","South America",Paraguay,2019,99.67,91.33,6.530026,37.93,397300.00,6.59
+"Latin America and the Caribbean","South America",Paraguay,2020,99.67,92.00,6.618695,35.43,397300.00,7.55
+"Latin America and the Caribbean","South America",Peru,2015,86.00,70.00,30.711863,189.81,1280000.00,3.27
+"Latin America and the Caribbean","South America",Peru,2016,87.33,70.67,31.132779,191.90,1280000.00,3.74
+"Latin America and the Caribbean","South America",Peru,2017,87.67,71.33,31.605486,211.01,1280000.00,3.69
+"Latin America and the Caribbean","South America",Peru,2018,88.67,72.33,32.203944,222.60,1280000.00,3.49
+"Latin America and the Caribbean","South America",Peru,2019,89.33,73.33,32.824861,228.32,1280000.00,3.38
+"Latin America and the Caribbean","South America",Peru,2020,90.33,74.33,33.304756,201.71,1280000.00,7.18
+"Latin America and the Caribbean","South America",Suriname,2015,95.00,84.67,0.575475,5.13,156000.00,7.22
+"Latin America and the Caribbean","South America",Suriname,2016,95.33,85.33,0.581453,3.32,156000.00,7.92
+"Latin America and the Caribbean","South America",Suriname,2017,96.33,86.33,0.587559,3.59,156000.00,NULL
+"Latin America and the Caribbean","South America",Suriname,2018,96.67,87.33,0.593715,4.00,156000.00,NULL
+"Latin America and the Caribbean","South America",Suriname,2019,97.33,87.67,0.600301,4.02,156000.00,NULL
+"Latin America and the Caribbean","South America",Suriname,2020,98.00,88.67,0.607065,2.91,156000.00,NULL
+"Latin America and the Caribbean","South America",Uruguay,2015,96.67,96.33,3.402818,53.27,175020.00,7.49
+"Latin America and the Caribbean","South America",Uruguay,2016,97.33,96.33,3.413766,57.24,175020.00,7.84
+"Latin America and the Caribbean","South America",Uruguay,2017,98.00,96.67,3.422200,64.23,175020.00,7.89
+"Latin America and the Caribbean","South America",Uruguay,2018,98.00,97.00,3.427042,64.52,175020.00,8.34
+"Latin America and the Caribbean","South America",Uruguay,2019,98.00,98.00,3.428409,61.23,175020.00,8.73
+"Latin America and the Caribbean","South America",Uruguay,2020,98.00,98.33,3.429086,53.56,175020.00,10.33
+"Latin America and the Caribbean","South America","Venezuela (Bolivarian Republic of)",2015,95.00,95.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean","South America","Venezuela (Bolivarian Republic of)",2016,94.00,95.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean","South America","Venezuela (Bolivarian Republic of)",2017,94.00,95.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean","South America","Venezuela (Bolivarian Republic of)",2018,94.00,95.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean","South America","Venezuela (Bolivarian Republic of)",2019,94.00,96.00,NULL,NULL,NULL,NULL
+"Latin America and the Caribbean","South America","Venezuela (Bolivarian Republic of)",2020,94.00,96.00,NULL,NULL,NULL,NULL
+"Northern Africa and Western Asia","Northern Africa",Algeria,2015,92.00,85.00,39.543154,165.98,2381741.00,11.21
+"Northern Africa and Western Asia","Northern Africa",Algeria,2016,93.00,85.33,40.339329,160.03,2381741.00,10.20
+"Northern Africa and Western Asia","Northern Africa",Algeria,2017,93.00,84.67,41.136546,170.10,2381741.00,12.00
+"Northern Africa and Western Asia","Northern Africa",Algeria,2018,93.00,84.67,41.927007,174.91,2381741.00,NULL
+"Northern Africa and Western Asia","Northern Africa",Algeria,2019,93.33,84.67,42.705368,171.77,2381741.00,NULL
+"Northern Africa and Western Asia","Northern Africa",Algeria,2020,93.33,84.33,43.451666,145.01,2381741.00,NULL
+"Northern Africa and Western Asia","Northern Africa",Egypt,2015,99.33,96.33,NULL,NULL,NULL,NULL
+"Northern Africa and Western Asia","Northern Africa",Egypt,2016,99.33,96.33,NULL,NULL,NULL,NULL
+"Northern Africa and Western Asia","Northern Africa",Egypt,2017,99.33,96.33,NULL,NULL,NULL,NULL
+"Northern Africa and Western Asia","Northern Africa",Egypt,2018,99.33,97.00,NULL,NULL,NULL,NULL
+"Northern Africa and Western Asia","Northern Africa",Egypt,2019,99.33,97.00,NULL,NULL,NULL,NULL
+"Northern Africa and Western Asia","Northern Africa",Egypt,2020,99.33,97.67,NULL,NULL,NULL,NULL
+"Northern Africa and Western Asia","Northern Africa",Libya,2015,97.00,92.00,6.192235,48.72,1759540.00,NULL
+"Northern Africa and Western Asia","Northern Africa",Libya,2016,98.00,92.00,6.282196,49.91,1759540.00,NULL
+"Northern Africa and Western Asia","Northern Africa",Libya,2017,99.00,92.00,6.378261,67.16,1759540.00,NULL
+"Northern Africa and Western Asia","Northern Africa",Libya,2018,100.00,92.00,6.477793,76.68,1759540.00,NULL
+"Northern Africa and Western Asia","Northern Africa",Libya,2019,100.00,92.00,6.569088,69.25,1759540.00,NULL
+"Northern Africa and Western Asia","Northern Africa",Libya,2020,100.00,92.00,6.653942,50.36,1759540.00,NULL
+"Northern Africa and Western Asia","Northern Africa",Morocco,2015,81.33,80.67,34.680458,110.41,446300.00,9.46
+"Northern Africa and Western Asia","Northern Africa",Morocco,2016,83.00,81.67,35.107264,111.57,446300.00,9.30
+"Northern Africa and Western Asia","Northern Africa",Morocco,2017,84.00,82.00,35.528115,118.54,446300.00,NULL
+"Northern Africa and Western Asia","Northern Africa",Morocco,2018,85.67,83.00,35.927511,127.34,446300.00,NULL
+"Northern Africa and Western Asia","Northern Africa",Morocco,2019,87.33,84.00,36.304408,128.92,446300.00,NULL
+"Northern Africa and Western Asia","Northern Africa",Morocco,2020,88.33,84.67,36.688772,121.35,446300.00,NULL
+"Northern Africa and Western Asia","Northern Africa",Sudan,2015,61.33,38.67,38.171178,84.99,1868000.00,NULL
+"Northern Africa and Western Asia","Northern Africa",Sudan,2016,62.33,40.00,39.377169,102.94,1868000.00,NULL
+"Northern Africa and Western Asia","Northern Africa",Sudan,2017,62.33,40.33,40.679828,129.72,1868000.00,NULL
+"Northern Africa and Western Asia","Northern Africa",Sudan,2018,62.33,40.33,41.999059,32.33,1868000.00,NULL
+"Northern Africa and Western Asia","Northern Africa",Sudan,2019,62.33,40.33,43.232093,32.34,1868000.00,NULL
+"Northern Africa and Western Asia","Northern Africa",Sudan,2020,62.33,40.33,44.440486,27.03,1868000.00,NULL
+"Northern Africa and Western Asia","Northern Africa",Tunisia,2015,93.33,90.33,11.557779,45.78,155360.00,15.16
+"Northern Africa and Western Asia","Northern Africa",Tunisia,2016,93.67,92.00,11.685667,44.36,155360.00,15.56
+"Northern Africa and Western Asia","Northern Africa",Tunisia,2017,94.67,93.00,11.811443,42.16,155360.00,15.33
+"Northern Africa and Western Asia","Northern Africa",Tunisia,2018,95.67,94.33,11.933041,42.69,155360.00,15.46
+"Northern Africa and Western Asia","Northern Africa",Tunisia,2019,96.00,95.67,12.049314,41.91,155360.00,15.13
+"Northern Africa and Western Asia","Northern Africa",Tunisia,2020,97.00,97.33,12.161723,42.54,155360.00,NULL
+"Northern Africa and Western Asia","Western Asia",Armenia,2015,99.67,91.33,2.878595,10.55,28470.00,18.26
+"Northern Africa and Western Asia","Western Asia",Armenia,2016,99.67,91.67,2.865835,10.55,28470.00,17.62
+"Northern Africa and Western Asia","Western Asia",Armenia,2017,100.00,92.00,2.851923,11.53,28470.00,17.70
+"Northern Africa and Western Asia","Western Asia",Armenia,2018,100.00,92.33,2.836557,12.46,28470.00,13.21
+"Northern Africa and Western Asia","Western Asia",Armenia,2019,100.00,92.33,2.820602,13.62,28470.00,12.20
+"Northern Africa and Western Asia","Western Asia",Armenia,2020,100.00,92.33,2.805608,12.64,28470.00,12.18
+"Northern Africa and Western Asia","Western Asia",Azerbaijan,2015,91.67,96.00,9.649341,53.07,82663.00,4.96
+"Northern Africa and Western Asia","Western Asia",Azerbaijan,2016,92.33,96.00,9.757812,37.87,82670.00,5.00
+"Northern Africa and Western Asia","Western Asia",Azerbaijan,2017,93.67,96.00,9.854033,40.87,82662.00,4.96
+"Northern Africa and Western Asia","Western Asia",Azerbaijan,2018,94.33,96.00,9.939771,47.11,82654.00,4.94
+"Northern Africa and Western Asia","Western Asia",Azerbaijan,2019,95.00,96.00,10.024283,48.17,82654.00,4.85
+"Northern Africa and Western Asia","Western Asia",Azerbaijan,2020,95.67,96.00,10.093121,42.69,82646.00,7.16
+"Northern Africa and Western Asia","Western Asia",Bahrain,2015,100.00,100.00,1.362142,31.05,778.00,NULL
+"Northern Africa and Western Asia","Western Asia",Bahrain,2016,100.00,100.00,1.409661,32.23,779.00,NULL
+"Northern Africa and Western Asia","Western Asia",Bahrain,2017,100.00,100.00,1.456834,35.47,780.00,NULL
+"Northern Africa and Western Asia","Western Asia",Bahrain,2018,100.00,100.00,1.487340,37.80,780.00,NULL
+"Northern Africa and Western Asia","Western Asia",Bahrain,2019,100.00,100.00,1.494188,38.65,783.00,NULL
+"Northern Africa and Western Asia","Western Asia",Bahrain,2020,100.00,100.00,1.477469,34.72,785.00,NULL
+"Northern Africa and Western Asia","Western Asia",Cyprus,2015,100.00,99.33,1.187280,19.91,9240.00,15.03
+"Northern Africa and Western Asia","Western Asia",Cyprus,2016,100.00,99.33,1.197881,21.05,9240.00,13.01
+"Northern Africa and Western Asia","Western Asia",Cyprus,2017,100.00,99.33,1.208523,22.95,9240.00,11.16
+"Northern Africa and Western Asia","Western Asia",Cyprus,2018,100.00,99.33,1.218831,25.60,9240.00,8.50
+"Northern Africa and Western Asia","Western Asia",Cyprus,2019,100.00,99.33,1.228836,25.94,9240.00,7.15
+"Northern Africa and Western Asia","Western Asia",Cyprus,2020,100.00,99.33,1.237537,25.01,9240.00,7.76
+"Northern Africa and Western Asia","Western Asia",Georgia,2015,95.33,85.67,3.725276,14.95,69490.00,16.51
+"Northern Africa and Western Asia","Western Asia",Georgia,2016,96.00,85.00,3.727505,15.14,69490.00,16.60
+"Northern Africa and Western Asia","Western Asia",Georgia,2017,96.67,85.33,3.728004,16.24,69490.00,13.94
+"Northern Africa and Western Asia","Western Asia",Georgia,2018,96.67,85.00,3.726549,17.60,69490.00,12.67
+"Northern Africa and Western Asia","Western Asia",Georgia,2019,96.67,84.67,3.720161,17.47,69490.00,11.57
+"Northern Africa and Western Asia","Western Asia",Georgia,2020,96.67,84.33,3.722716,15.84,69490.00,11.73
+"Northern Africa and Western Asia","Western Asia",Iraq,2015,92.33,92.00,37.757813,166.77,434128.00,NULL
+"Northern Africa and Western Asia","Western Asia",Iraq,2016,93.67,94.33,38.697943,166.60,434128.00,10.82
+"Northern Africa and Western Asia","Western Asia",Iraq,2017,94.67,96.00,39.621162,187.22,434128.00,13.02
+"Northern Africa and Western Asia","Western Asia",Iraq,2018,95.67,97.67,40.590700,227.37,434128.00,NULL
+"Northern Africa and Western Asia","Western Asia",Iraq,2019,97.00,99.33,41.563520,233.64,434128.00,NULL
+"Northern Africa and Western Asia","Western Asia",Iraq,2020,97.67,100.00,42.556984,184.37,434128.00,NULL
+"Northern Africa and Western Asia","Western Asia",Israel,2015,100.00,100.00,8.380100,303.41,21640.00,5.18
+"Northern Africa and Western Asia","Western Asia",Israel,2016,100.00,100.00,8.546000,322.10,21640.00,4.72
+"Northern Africa and Western Asia","Western Asia",Israel,2017,100.00,100.00,8.713300,358.25,21640.00,4.14
+"Northern Africa and Western Asia","Western Asia",Israel,2018,100.00,99.67,8.882800,376.69,21640.00,3.92
+"Northern Africa and Western Asia","Western Asia",Israel,2019,100.00,99.67,9.054000,402.47,21640.00,3.73
+"Northern Africa and Western Asia","Western Asia",Israel,2020,100.00,99.67,9.215100,413.27,21640.00,4.17
+"Northern Africa and Western Asia","Western Asia",Jordan,2015,98.33,97.00,9.494246,38.59,88780.00,13.08
+"Northern Africa and Western Asia","Western Asia",Jordan,2016,98.33,97.00,9.964656,39.89,88780.00,15.28
+"Northern Africa and Western Asia","Western Asia",Jordan,2017,98.33,96.67,10.215381,41.61,88780.00,18.12
+"Northern Africa and Western Asia","Western Asia",Jordan,2018,98.33,96.67,10.459865,43.37,88780.00,18.26
+"Northern Africa and Western Asia","Western Asia",Jordan,2019,98.33,96.33,10.698683,44.99,88794.00,16.80
+"Northern Africa and Western Asia","Western Asia",Jordan,2020,98.33,96.33,10.928721,44.18,88794.00,19.21
+"Northern Africa and Western Asia","Western Asia",Kuwait,2015,100.00,100.00,3.908743,114.57,17820.00,2.20
+"Northern Africa and Western Asia","Western Asia",Kuwait,2016,100.00,100.00,4.048085,109.42,17820.00,2.16
+"Northern Africa and Western Asia","Western Asia",Kuwait,2017,100.00,100.00,4.124904,120.71,17820.00,NULL
+"Northern Africa and Western Asia","Western Asia",Kuwait,2018,100.00,100.00,4.317185,138.18,17820.00,NULL
+"Northern Africa and Western Asia","Western Asia",Kuwait,2019,100.00,100.00,4.441100,136.20,17820.00,NULL
+"Northern Africa and Western Asia","Western Asia",Kuwait,2020,100.00,100.00,4.360444,105.96,17820.00,NULL
+"Northern Africa and Western Asia","Western Asia",Lebanon,2015,91.00,94.00,6.398940,49.93,10230.00,NULL
+"Northern Africa and Western Asia","Western Asia",Lebanon,2016,92.00,95.00,6.258619,51.15,10230.00,NULL
+"Northern Africa and Western Asia","Western Asia",Lebanon,2017,92.00,97.00,6.109252,53.03,10230.00,NULL
+"Northern Africa and Western Asia","Western Asia",Lebanon,2018,92.00,98.00,5.950839,54.90,10230.00,NULL
+"Northern Africa and Western Asia","Western Asia",Lebanon,2019,93.00,99.00,5.781907,51.95,10230.00,11.30
+"Northern Africa and Western Asia","Western Asia",Lebanon,2020,93.00,99.00,5.662923,31.71,10230.00,NULL
+"Northern Africa and Western Asia","Western Asia",Oman,2015,86.00,99.00,4.191776,78.71,309500.00,NULL
+"Northern Africa and Western Asia","Western Asia",Oman,2016,86.67,99.00,4.398070,75.13,309500.00,3.27
+"Northern Africa and Western Asia","Western Asia",Oman,2017,86.67,99.00,4.541854,80.86,309500.00,NULL
+"Northern Africa and Western Asia","Western Asia",Oman,2018,87.00,99.00,4.601157,91.51,309500.00,1.80
+"Northern Africa and Western Asia","Western Asia",Oman,2019,87.67,99.00,4.602768,88.06,309500.00,NULL
+"Northern Africa and Western Asia","Western Asia",Oman,2020,87.67,99.00,4.543399,75.91,309500.00,2.94
+"Northern Africa and Western Asia","Western Asia",Qatar,2015,100.00,100.00,2.414573,161.74,11490.00,0.17
+"Northern Africa and Western Asia","Western Asia",Qatar,2016,100.00,100.00,2.595166,151.73,11490.00,0.15
+"Northern Africa and Western Asia","Western Asia",Qatar,2017,100.00,100.00,2.711755,161.10,11490.00,0.14
+"Northern Africa and Western Asia","Western Asia",Qatar,2018,100.00,100.00,2.766732,183.33,11490.00,0.11
+"Northern Africa and Western Asia","Western Asia",Qatar,2019,100.00,100.00,2.807235,175.84,11490.00,0.10
+"Northern Africa and Western Asia","Western Asia",Qatar,2020,100.00,100.00,2.760385,144.41,11490.00,0.14
+"Northern Africa and Western Asia","Western Asia","Saudi Arabia",2015,100.00,100.00,32.749848,654.27,2149690.00,5.60
+"Northern Africa and Western Asia","Western Asia","Saudi Arabia",2016,100.00,100.00,33.416270,644.94,2149690.00,5.60
+"Northern Africa and Western Asia","Western Asia","Saudi Arabia",2017,100.00,100.00,34.193122,688.59,2149690.00,5.89
+"Northern Africa and Western Asia","Western Asia","Saudi Arabia",2018,100.00,100.00,35.018133,816.58,2149690.00,6.03
+"Northern Africa and Western Asia","Western Asia","Saudi Arabia",2019,100.00,100.00,35.827362,803.62,2149690.00,5.64
+"Northern Africa and Western Asia","Western Asia","Saudi Arabia",2020,100.00,100.00,35.997107,703.37,2149690.00,7.66
+"Northern Africa and Western Asia","Western Asia","State of Palestine",2015,96.00,96.00,NULL,NULL,NULL,NULL
+"Northern Africa and Western Asia","Western Asia","State of Palestine",2016,96.67,96.33,NULL,NULL,NULL,NULL
+"Northern Africa and Western Asia","Western Asia","State of Palestine",2017,97.00,97.00,NULL,NULL,NULL,NULL
+"Northern Africa and Western Asia","Western Asia","State of Palestine",2018,97.00,97.67,NULL,NULL,NULL,NULL
+"Northern Africa and Western Asia","Western Asia","State of Palestine",2019,97.67,97.67,NULL,NULL,NULL,NULL
+"Northern Africa and Western Asia","Western Asia","State of Palestine",2020,98.33,98.67,NULL,NULL,NULL,NULL
+"Northern Africa and Western Asia","Western Asia","Syrian Arab Republic",2015,93.33,90.00,19.205178,16.47,183630.00,NULL
+"Northern Africa and Western Asia","Western Asia","Syrian Arab Republic",2016,93.67,90.00,18.964252,12.60,183630.00,NULL
+"Northern Africa and Western Asia","Western Asia","Syrian Arab Republic",2017,93.67,90.00,18.983373,16.37,183630.00,NULL
+"Northern Africa and Western Asia","Western Asia","Syrian Arab Republic",2018,93.67,89.67,19.333463,21.35,183630.00,NULL
+"Northern Africa and Western Asia","Western Asia","Syrian Arab Republic",2019,93.67,90.00,20.098251,22.44,183630.00,NULL
+"Northern Africa and Western Asia","Western Asia","Syrian Arab Republic",2020,93.67,90.00,20.772595,11.08,183630.00,NULL
+"Northern Africa and Western Asia","Western Asia",Türkiye,2015,95.67,95.00,NULL,NULL,NULL,NULL
+"Northern Africa and Western Asia","Western Asia",Türkiye,2016,96.00,95.67,NULL,NULL,NULL,NULL
+"Northern Africa and Western Asia","Western Asia",Türkiye,2017,96.33,96.67,NULL,NULL,NULL,NULL
+"Northern Africa and Western Asia","Western Asia",Türkiye,2018,96.33,97.00,NULL,NULL,NULL,NULL
+"Northern Africa and Western Asia","Western Asia",Türkiye,2019,96.67,98.33,NULL,NULL,NULL,NULL
+"Northern Africa and Western Asia","Western Asia",Türkiye,2020,96.67,98.67,NULL,NULL,NULL,NULL
+"Northern Africa and Western Asia","Western Asia","United Arab Emirates",2015,100.00,99.00,8.916899,370.28,71020.00,NULL
+"Northern Africa and Western Asia","Western Asia","United Arab Emirates",2016,100.00,99.00,8.994263,369.26,71020.00,1.64
+"Northern Africa and Western Asia","Western Asia","United Arab Emirates",2017,100.00,99.00,9.068296,390.52,71020.00,2.46
+"Northern Africa and Western Asia","Western Asia","United Arab Emirates",2018,100.00,99.00,9.140169,427.05,71020.00,2.24
+"Northern Africa and Western Asia","Western Asia","United Arab Emirates",2019,100.00,99.00,9.211657,417.99,71020.00,2.33
+"Northern Africa and Western Asia","Western Asia","United Arab Emirates",2020,100.00,99.00,9.287289,349.47,71020.00,4.29
+"Northern Africa and Western Asia","Western Asia",Yemen,2015,59.00,56.33,NULL,NULL,NULL,NULL
+"Northern Africa and Western Asia","Western Asia",Yemen,2016,59.67,56.33,NULL,NULL,NULL,NULL
+"Northern Africa and Western Asia","Western Asia",Yemen,2017,60.33,56.67,NULL,NULL,NULL,NULL
+"Northern Africa and Western Asia","Western Asia",Yemen,2018,61.33,56.67,NULL,NULL,NULL,NULL
+"Northern Africa and Western Asia","Western Asia",Yemen,2019,62.33,57.00,NULL,NULL,NULL,NULL
+"Northern Africa and Western Asia","Western Asia",Yemen,2020,63.00,57.33,NULL,NULL,NULL,NULL
+Oceania,"Australia and New Zealand",Australia,2015,100.00,100.00,23.815995,1350.62,7682300.00,6.06
+Oceania,"Australia and New Zealand",Australia,2016,100.00,100.00,24.190907,1206.54,7692020.00,5.71
+Oceania,"Australia and New Zealand",Australia,2017,100.00,100.00,24.594202,1326.52,7692020.00,5.59
+Oceania,"Australia and New Zealand",Australia,2018,100.00,100.00,24.966643,1428.29,7692020.00,5.30
+Oceania,"Australia and New Zealand",Australia,2019,100.00,100.00,25.340217,1392.23,7692020.00,5.16
+Oceania,"Australia and New Zealand",Australia,2020,100.00,100.00,25.655289,1326.90,7692020.00,6.46
+Oceania,"Australia and New Zealand","New Zealand",2015,100.00,100.00,4.609400,178.06,263310.00,5.42
+Oceania,"Australia and New Zealand","New Zealand",2016,100.00,100.00,4.714100,188.84,263310.00,5.15
+Oceania,"Australia and New Zealand","New Zealand",2017,100.00,100.00,4.813600,206.62,263310.00,4.74
+Oceania,"Australia and New Zealand","New Zealand",2018,100.00,100.00,4.900600,211.95,263310.00,4.34
+Oceania,"Australia and New Zealand","New Zealand",2019,100.00,100.00,4.979200,213.43,263310.00,4.11
+Oceania,"Australia and New Zealand","New Zealand",2020,100.00,100.00,5.090200,211.73,263310.00,4.60
+Oceania,Melanesia,Fiji,2015,93.67,96.00,0.917200,4.68,18270.00,NULL
+Oceania,Melanesia,Fiji,2016,93.67,97.33,0.918371,4.93,18270.00,4.32
+Oceania,Melanesia,Fiji,2017,93.67,98.33,0.919019,5.35,18270.00,NULL
+Oceania,Melanesia,Fiji,2018,93.67,99.00,0.918996,5.58,18270.00,NULL
+Oceania,Melanesia,Fiji,2019,93.67,99.00,0.918465,5.48,18270.00,NULL
+Oceania,Melanesia,Fiji,2020,93.67,99.00,0.920422,4.48,18270.00,NULL
+Oceania,Melanesia,"New Caledonia",2015,98.00,100.00,0.269460,8.74,18280.00,NULL
+Oceania,Melanesia,"New Caledonia",2016,98.00,100.00,0.270220,8.72,18280.00,NULL
+Oceania,Melanesia,"New Caledonia",2017,99.00,100.00,0.270810,9.17,18280.00,11.68
+Oceania,Melanesia,"New Caledonia",2018,99.00,100.00,0.271170,9.85,18280.00,11.70
+Oceania,Melanesia,"New Caledonia",2019,99.00,100.00,0.271230,9.44,18280.00,10.88
+Oceania,Melanesia,"New Caledonia",2020,99.00,100.00,0.271130,9.44,18280.00,13.56
+Oceania,Melanesia,"Papua New Guinea",2015,53.67,28.33,8.682174,21.72,452860.00,NULL
+Oceania,Melanesia,"Papua New Guinea",2016,54.33,28.00,8.899169,20.76,452860.00,NULL
+Oceania,Melanesia,"Papua New Guinea",2017,55.00,27.67,9.114796,22.74,452860.00,NULL
+Oceania,Melanesia,"Papua New Guinea",2018,55.67,27.67,9.329227,24.11,452860.00,NULL
+Oceania,Melanesia,"Papua New Guinea",2019,56.33,27.67,9.542486,24.75,452860.00,NULL
+Oceania,Melanesia,"Papua New Guinea",2020,56.67,27.67,9.749640,23.85,452860.00,NULL
+Oceania,Melanesia,"Solomon Islands",2015,74.33,42.67,0.612660,1.31,27990.00,NULL
+Oceania,Melanesia,"Solomon Islands",2016,74.00,43.33,0.628102,1.38,27990.00,NULL
+Oceania,Melanesia,"Solomon Islands",2017,73.33,44.00,0.643634,1.47,27990.00,NULL
+Oceania,Melanesia,"Solomon Islands",2018,72.33,44.33,0.659249,1.62,27990.00,NULL
+Oceania,Melanesia,"Solomon Islands",2019,72.33,44.33,0.674993,1.62,27990.00,NULL
+Oceania,Melanesia,"Solomon Islands",2020,72.33,44.67,0.691191,1.54,27990.00,NULL
+Oceania,Melanesia,Vanuatu,2015,92.00,56.00,0.276438,0.73,12190.00,NULL
+Oceania,Melanesia,Vanuatu,2016,92.67,55.67,0.283218,0.78,12190.00,NULL
+Oceania,Melanesia,Vanuatu,2017,93.00,55.67,0.290239,0.88,12190.00,NULL
+Oceania,Melanesia,Vanuatu,2018,93.00,55.67,0.297298,0.91,12190.00,NULL
+Oceania,Melanesia,Vanuatu,2019,93.00,55.67,0.304404,0.94,12190.00,5.44
+Oceania,Melanesia,Vanuatu,2020,93.00,55.67,0.311685,0.90,12190.00,4.05
+Oceania,Micronesia,Guam,2015,100.00,90.00,0.167978,5.80,540.00,6.90
+Oceania,Micronesia,Guam,2016,100.00,90.00,0.168346,5.90,540.00,5.40
+Oceania,Micronesia,Guam,2017,100.00,NULL,0.168606,6.01,540.00,NULL
+Oceania,Micronesia,Guam,2018,100.00,NULL,0.168678,6.06,540.00,NULL
+Oceania,Micronesia,Guam,2019,100.00,NULL,0.168624,6.37,540.00,NULL
+Oceania,Micronesia,Guam,2020,100.00,NULL,0.169231,5.89,540.00,NULL
+Oceania,Micronesia,Kiribati,2015,73.67,43.00,0.116707,0.17,810.00,9.33
+Oceania,Micronesia,Kiribati,2016,74.33,43.67,0.118513,0.18,810.00,NULL
+Oceania,Micronesia,Kiribati,2017,75.00,44.00,0.120362,0.19,810.00,NULL
+Oceania,Micronesia,Kiribati,2018,75.33,44.33,0.122261,0.20,810.00,NULL
+Oceania,Micronesia,Kiribati,2019,76.00,44.67,0.124241,0.18,810.00,8.56
+Oceania,Micronesia,Kiribati,2020,77.00,45.33,0.126463,0.18,810.00,10.97
+Oceania,Micronesia,"Marshall Islands",2015,89.33,77.67,0.049410,0.18,180.00,NULL
+Oceania,Micronesia,"Marshall Islands",2016,89.67,77.67,0.048329,0.20,180.00,NULL
+Oceania,Micronesia,"Marshall Islands",2017,89.67,78.00,0.047187,0.21,180.00,NULL
+Oceania,Micronesia,"Marshall Islands",2018,90.00,78.00,0.045989,0.22,180.00,NULL
+Oceania,Micronesia,"Marshall Islands",2019,90.00,78.00,0.044728,0.23,180.00,6.34
+Oceania,Micronesia,"Marshall Islands",2020,90.00,78.00,0.043413,0.24,180.00,NULL
+Oceania,Micronesia,"Micronesia (Federated States of)",2015,88.00,88.00,NULL,NULL,NULL,NULL
+Oceania,Micronesia,"Micronesia (Federated States of)",2016,88.00,88.00,NULL,NULL,NULL,NULL
+Oceania,Micronesia,"Micronesia (Federated States of)",2017,88.00,88.00,NULL,NULL,NULL,NULL
+Oceania,Micronesia,"Micronesia (Federated States of)",2018,88.00,88.00,NULL,NULL,NULL,NULL
+Oceania,Micronesia,"Micronesia (Federated States of)",2019,88.00,88.00,NULL,NULL,NULL,NULL
+Oceania,Micronesia,Nauru,2015,100.00,66.00,0.011185,0.09,20.00,NULL
+Oceania,Micronesia,Nauru,2016,100.00,66.00,0.011437,0.10,20.00,NULL
+Oceania,Micronesia,Nauru,2017,100.00,66.00,0.011682,0.11,20.00,NULL
+Oceania,Micronesia,Nauru,2018,100.00,NULL,0.011924,0.12,20.00,NULL
+Oceania,Micronesia,Nauru,2019,100.00,NULL,0.012132,0.12,20.00,NULL
+Oceania,Micronesia,Nauru,2020,100.00,NULL,0.012315,0.11,20.00,NULL
+Oceania,Micronesia,"Northern Mariana Islands",2015,100.00,78.00,0.051514,0.91,460.00,NULL
+Oceania,Micronesia,"Northern Mariana Islands",2016,100.00,79.00,0.051133,1.23,460.00,NULL
+Oceania,Micronesia,"Northern Mariana Islands",2017,100.00,79.00,0.050729,1.56,460.00,NULL
+Oceania,Micronesia,"Northern Mariana Islands",2018,100.00,79.00,0.050304,1.30,460.00,NULL
+Oceania,Micronesia,"Northern Mariana Islands",2019,100.00,79.00,0.049858,1.18,460.00,NULL
+Oceania,Micronesia,"Northern Mariana Islands",2020,100.00,79.00,0.049587,NULL,460.00,NULL
+Oceania,Micronesia,Palau,2015,100.00,98.33,0.017794,0.28,460.00,NULL
+Oceania,Micronesia,Palau,2016,100.00,99.00,0.017816,0.30,460.00,NULL
+Oceania,Micronesia,Palau,2017,100.00,99.67,0.017837,0.29,460.00,NULL
+Oceania,Micronesia,Palau,2018,100.00,99.67,0.017864,0.28,460.00,NULL
+Oceania,Micronesia,Palau,2019,100.00,99.67,0.017916,0.28,460.00,NULL
+Oceania,Micronesia,Palau,2020,100.00,99.67,0.017972,0.25,460.00,0.77
+Oceania,Polynesia,"American Samoa",2015,100.00,57.00,0.051368,0.67,200.00,NULL
+Oceania,Polynesia,"American Samoa",2016,100.00,56.00,0.050448,0.67,200.00,NULL
+Oceania,Polynesia,"American Samoa",2017,100.00,54.00,0.049463,0.61,200.00,NULL
+Oceania,Polynesia,"American Samoa",2018,100.00,54.00,0.048424,0.64,200.00,NULL
+Oceania,Polynesia,"American Samoa",2019,100.00,54.00,0.047321,0.65,200.00,NULL
+Oceania,Polynesia,"American Samoa",2020,100.00,54.00,0.046189,0.72,200.00,NULL
+Oceania,Polynesia,"Cook Islands",2015,100.00,98.00,NULL,NULL,NULL,NULL
+Oceania,Polynesia,"Cook Islands",2016,100.00,98.00,NULL,NULL,NULL,NULL
+Oceania,Polynesia,"Cook Islands",2017,100.00,99.00,NULL,NULL,NULL,NULL
+Oceania,Polynesia,"Cook Islands",2018,100.00,99.00,NULL,NULL,NULL,NULL
+Oceania,Polynesia,"Cook Islands",2019,100.00,99.00,NULL,NULL,NULL,NULL
+Oceania,Polynesia,"Cook Islands",2020,100.00,99.00,NULL,NULL,NULL,NULL
+Oceania,Polynesia,"French Polynesia",2015,100.00,97.00,0.291787,5.33,3471.00,NULL
+Oceania,Polynesia,"French Polynesia",2016,100.00,97.00,0.293541,5.50,3471.00,NULL
+Oceania,Polynesia,"French Polynesia",2017,100.00,97.00,0.295450,5.83,3471.00,NULL
+Oceania,Polynesia,"French Polynesia",2018,100.00,97.00,0.297606,6.14,3471.00,NULL
+Oceania,Polynesia,"French Polynesia",2019,100.00,97.00,0.299717,6.00,3471.00,NULL
+Oceania,Polynesia,"French Polynesia",2020,100.00,97.00,0.301920,5.71,3471.00,NULL
+Oceania,Polynesia,Niue,2015,98.00,97.00,NULL,NULL,NULL,NULL
+Oceania,Polynesia,Niue,2016,97.00,97.00,NULL,NULL,NULL,NULL
+Oceania,Polynesia,Niue,2017,97.00,96.00,NULL,NULL,NULL,NULL
+Oceania,Polynesia,Niue,2018,97.00,96.00,NULL,NULL,NULL,NULL
+Oceania,Polynesia,Niue,2019,97.00,96.00,NULL,NULL,NULL,NULL
+Oceania,Polynesia,Niue,2020,97.00,96.00,NULL,NULL,NULL,NULL
+Oceania,Polynesia,Samoa,2015,91.00,96.00,0.203571,0.82,2830.00,NULL
+Oceania,Polynesia,Samoa,2016,92.00,96.00,0.205544,0.84,2830.00,NULL
+Oceania,Polynesia,Samoa,2017,92.00,96.33,0.207630,0.88,2780.00,9.40
+Oceania,Polynesia,Samoa,2018,92.00,96.33,0.209701,0.88,2780.00,NULL
+Oceania,Polynesia,Samoa,2019,92.00,96.33,0.211905,0.91,2780.00,NULL
+Oceania,Polynesia,Samoa,2020,92.00,96.33,0.214929,0.87,2780.00,NULL
+Oceania,Polynesia,Tokelau,2015,99.00,94.00,NULL,NULL,NULL,NULL
+Oceania,Polynesia,Tokelau,2016,100.00,96.00,NULL,NULL,NULL,NULL
+Oceania,Polynesia,Tokelau,2017,100.00,97.00,NULL,NULL,NULL,NULL
+Oceania,Polynesia,Tokelau,2018,100.00,97.00,NULL,NULL,NULL,NULL
+Oceania,Polynesia,Tokelau,2019,100.00,97.00,NULL,NULL,NULL,NULL
+Oceania,Polynesia,Tokelau,2020,100.00,97.00,NULL,NULL,NULL,NULL
+Oceania,Polynesia,Tonga,2015,98.67,94.00,0.106122,0.44,720.00,NULL
+Oceania,Polynesia,Tonga,2016,98.67,94.00,0.105707,0.42,720.00,NULL
+Oceania,Polynesia,Tonga,2017,98.67,93.67,0.105415,0.46,720.00,NULL
+Oceania,Polynesia,Tonga,2018,98.67,93.67,0.105150,0.49,720.00,2.25
+Oceania,Polynesia,Tonga,2019,98.67,93.67,0.104951,0.51,720.00,NULL
+Oceania,Polynesia,Tonga,2020,99.00,93.33,0.105254,0.48,720.00,NULL
+Oceania,Polynesia,Tuvalu,2015,100.00,83.67,0.010877,0.04,30.00,NULL
+Oceania,Polynesia,Tuvalu,2016,100.00,83.67,0.010852,0.04,30.00,8.49
+Oceania,Polynesia,Tuvalu,2017,100.00,83.67,0.010828,0.05,30.00,26.55
+Oceania,Polynesia,Tuvalu,2018,100.00,83.67,0.010865,0.05,30.00,NULL
+Oceania,Polynesia,Tuvalu,2019,100.00,NULL,0.010956,0.05,30.00,NULL
+Oceania,Polynesia,Tuvalu,2020,100.00,NULL,0.011069,0.06,30.00,NULL
+Oceania,Polynesia,"Wallis and Futuna Islands",2015,99.00,95.00,NULL,NULL,NULL,NULL
+Oceania,Polynesia,"Wallis and Futuna Islands",2016,99.00,94.00,NULL,NULL,NULL,NULL
+Oceania,Polynesia,"Wallis and Futuna Islands",2017,99.00,94.00,NULL,NULL,NULL,NULL
+Oceania,Polynesia,"Wallis and Futuna Islands",2018,99.00,94.00,NULL,NULL,NULL,NULL
+Oceania,Polynesia,"Wallis and Futuna Islands",2019,99.00,93.00,NULL,NULL,NULL,NULL
+Oceania,Polynesia,"Wallis and Futuna Islands",2020,99.00,93.00,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Eastern Africa",Burundi,2015,68.33,44.67,10.727148,3.10,25680.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Burundi,2016,68.33,44.67,10.903327,2.64,25680.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Burundi,2017,69.33,44.67,11.155593,2.71,25680.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Burundi,2018,69.33,44.33,11.493472,2.66,25680.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Burundi,2019,70.33,44.33,11.874838,2.58,25680.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Burundi,2020,70.33,44.33,12.220227,2.65,25680.00,1.03
+"Sub-Saharan Africa","Eastern Africa",Comoros,2015,81.67,37.67,0.730216,0.97,1861.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Comoros,2016,81.67,37.67,0.746232,1.01,1861.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Comoros,2017,81.67,37.67,0.761664,1.08,1861.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Comoros,2018,81.67,37.67,0.776313,1.19,1861.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Comoros,2019,81.67,37.67,0.790986,1.20,1861.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Djibouti,2015,69.67,51.33,1.006259,2.42,23180.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Djibouti,2016,69.33,52.67,1.023261,2.60,23180.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Djibouti,2017,69.33,53.67,1.040233,2.76,23180.00,26.06
+"Sub-Saharan Africa","Eastern Africa",Djibouti,2018,69.33,54.67,1.057198,2.91,23180.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Djibouti,2019,69.00,56.00,1.073994,3.09,23180.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Djibouti,2020,69.00,56.00,1.090156,3.18,23180.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Eritrea,2015,56.33,13.33,3.340006,NULL,121088.77,NULL
+"Sub-Saharan Africa","Eastern Africa",Eritrea,2016,56.67,13.33,3.365287,NULL,121077.46,NULL
+"Sub-Saharan Africa","Eastern Africa",Ethiopia,2015,52.00,10.67,102.471895,64.59,1128539.35,NULL
+"Sub-Saharan Africa","Eastern Africa",Ethiopia,2016,53.33,11.00,105.293228,74.30,1128558.51,NULL
+"Sub-Saharan Africa","Eastern Africa",Ethiopia,2017,54.67,11.00,108.197950,81.77,1128552.82,NULL
+"Sub-Saharan Africa","Eastern Africa",Ethiopia,2018,55.67,11.33,111.129438,84.27,1128561.43,NULL
+"Sub-Saharan Africa","Eastern Africa",Ethiopia,2019,57.00,11.67,114.120594,95.91,1128570.86,NULL
+"Sub-Saharan Africa","Eastern Africa",Ethiopia,2020,58.00,11.67,117.190911,107.66,1128571.26,NULL
+"Sub-Saharan Africa","Eastern Africa",Kenya,2015,64.33,33.00,46.851488,70.12,569140.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Kenya,2016,65.00,33.00,47.894670,74.82,569140.00,2.76
+"Sub-Saharan Africa","Eastern Africa",Kenya,2017,65.67,33.00,48.948137,82.04,569140.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Kenya,2018,65.67,33.33,49.953304,92.20,569140.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Kenya,2019,66.33,33.33,50.951450,100.38,569140.00,5.01
+"Sub-Saharan Africa","Eastern Africa",Kenya,2020,67.00,33.67,51.985780,100.67,569140.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Madagascar,2015,53.33,11.00,24.850912,11.32,581800.00,1.79
+"Sub-Saharan Africa","Eastern Africa",Madagascar,2016,54.00,11.67,25.501941,11.85,581800.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Madagascar,2017,54.67,12.00,26.169542,13.18,581800.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Madagascar,2018,55.33,12.67,26.846541,13.76,581800.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Madagascar,2019,56.00,12.67,27.533134,14.10,581800.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Madagascar,2020,56.33,13.00,28.225177,13.05,581800.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Malawi,2015,71.33,27.67,16.938942,6.37,94280.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Malawi,2016,72.00,27.67,17.405624,5.43,94280.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Malawi,2017,72.67,28.00,17.881167,8.94,94280.00,3.54
+"Sub-Saharan Africa","Eastern Africa",Malawi,2018,73.33,28.00,18.367883,9.88,94280.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Malawi,2019,73.67,28.33,18.867337,11.03,94280.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Malawi,2020,74.33,28.67,19.377061,12.18,94280.00,0.91
+"Sub-Saharan Africa","Eastern Africa",Mauritius,2015,100.00,95.67,1.262605,12.01,2030.00,7.41
+"Sub-Saharan Africa","Eastern Africa",Mauritius,2016,100.00,95.67,1.263473,12.59,2030.00,6.81
+"Sub-Saharan Africa","Eastern Africa",Mauritius,2017,100.00,95.67,1.264613,13.71,2030.00,6.75
+"Sub-Saharan Africa","Eastern Africa",Mauritius,2018,100.00,96.00,1.265303,14.74,2030.00,6.43
+"Sub-Saharan Africa","Eastern Africa",Mauritius,2019,100.00,96.00,1.265711,14.44,2030.00,6.33
+"Sub-Saharan Africa","Eastern Africa",Mauritius,2020,100.00,96.00,1.265740,11.40,2030.00,8.63
+"Sub-Saharan Africa","Eastern Africa",Mayotte,2015,97.00,89.00,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Eastern Africa",Mayotte,2016,97.00,93.00,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Eastern Africa",Mayotte,2017,97.00,97.00,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Eastern Africa",Mayotte,2018,96.00,100.00,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Eastern Africa",Mayotte,2019,96.00,100.00,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Eastern Africa",Mayotte,2020,96.00,100.00,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Eastern Africa",Mozambique,2015,55.67,33.00,26.843246,15.95,786380.00,3.43
+"Sub-Saharan Africa","Eastern Africa",Mozambique,2016,58.00,34.67,27.696493,11.94,786380.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Mozambique,2017,60.00,35.67,28.569441,13.22,786380.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Mozambique,2018,62.33,37.33,29.423878,14.85,786380.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Mozambique,2019,64.33,39.33,30.285595,15.39,786380.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Mozambique,2020,66.67,40.33,31.178239,14.03,786380.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Rwanda,2015,63.00,61.00,11.642959,8.54,24670.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Rwanda,2016,64.00,62.00,11.930899,8.69,24670.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Rwanda,2017,65.00,63.00,12.230339,9.25,24670.00,11.88
+"Sub-Saharan Africa","Eastern Africa",Rwanda,2018,65.67,63.33,12.531808,9.64,24670.00,10.76
+"Sub-Saharan Africa","Eastern Africa",Rwanda,2019,66.33,64.00,12.835028,10.36,24670.00,11.24
+"Sub-Saharan Africa","Eastern Africa",Rwanda,2020,66.33,64.00,13.146362,10.18,24670.00,11.83
+"Sub-Saharan Africa","Eastern Africa",Réunion,2015,100.00,99.00,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Eastern Africa",Réunion,2016,100.00,99.00,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Eastern Africa",Réunion,2017,100.00,99.00,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Eastern Africa",Réunion,2018,100.00,100.00,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Eastern Africa",Réunion,2019,100.00,100.00,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Eastern Africa",Réunion,2020,100.00,100.00,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Eastern Africa",Seychelles,2015,96.00,100.00,0.093419,1.42,460.00,4.15
+"Sub-Saharan Africa","Eastern Africa",Seychelles,2016,96.00,100.00,0.094677,1.49,460.00,3.96
+"Sub-Saharan Africa","Eastern Africa",Seychelles,2017,96.00,100.00,0.095843,1.57,460.00,3.71
+"Sub-Saharan Africa","Eastern Africa",Seychelles,2018,96.00,100.00,0.096762,1.64,460.00,3.53
+"Sub-Saharan Africa","Eastern Africa",Seychelles,2019,97.00,100.00,0.097625,1.68,460.00,2.97
+"Sub-Saharan Africa","Eastern Africa",Somalia,2015,50.67,35.67,13.763906,5.33,627340.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Somalia,2016,52.00,36.33,14.292847,5.53,627340.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Somalia,2017,53.33,37.33,14.864221,5.61,627340.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Somalia,2018,54.67,38.00,15.411094,5.86,627340.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Somalia,2019,56.33,39.33,15.981300,6.49,627340.00,18.83
+"Sub-Saharan Africa","Eastern Africa",Somalia,2020,57.33,40.00,16.537016,6.88,627340.00,NULL
+"Sub-Saharan Africa","Eastern Africa","South Sudan",2015,46.33,15.67,11.194299,12.00,631930.00,NULL
+"Sub-Saharan Africa","Eastern Africa","South Sudan",2016,46.67,17.00,11.066105,NULL,631930.00,NULL
+"Sub-Saharan Africa","Eastern Africa","South Sudan",2017,47.00,18.67,10.658226,NULL,631930.00,NULL
+"Sub-Saharan Africa","Eastern Africa","South Sudan",2018,47.67,20.67,10.395329,NULL,631930.00,NULL
+"Sub-Saharan Africa","Eastern Africa","South Sudan",2019,48.33,22.33,10.447666,NULL,631930.00,NULL
+"Sub-Saharan Africa","Eastern Africa","South Sudan",2020,48.33,22.33,10.606227,NULL,631930.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Uganda,2015,55.00,21.33,37.477356,32.39,200520.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Uganda,2016,55.67,21.33,38.748299,29.20,200520.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Uganda,2017,57.00,21.33,40.127085,30.74,200520.00,3.64
+"Sub-Saharan Africa","Eastern Africa",Uganda,2018,58.67,21.67,41.515395,32.93,200520.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Uganda,2019,59.33,21.67,42.949080,35.35,200520.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Uganda,2020,61.00,21.67,44.404611,37.60,200520.00,NULL
+"Sub-Saharan Africa","Eastern Africa","United Republic of Tanzania",2015,58.33,28.33,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Eastern Africa","United Republic of Tanzania",2016,60.00,29.33,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Eastern Africa","United Republic of Tanzania",2017,61.67,31.00,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Eastern Africa","United Republic of Tanzania",2018,63.33,32.33,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Eastern Africa","United Republic of Tanzania",2019,64.67,34.00,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Eastern Africa","United Republic of Tanzania",2020,65.00,34.00,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Eastern Africa",Zambia,2015,63.67,31.00,16.248230,21.25,743390.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Zambia,2016,64.33,31.00,16.767761,20.96,743390.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Zambia,2017,64.67,31.67,17.298054,25.87,743390.00,8.52
+"Sub-Saharan Africa","Eastern Africa",Zambia,2018,65.33,32.00,17.835893,26.31,743390.00,5.03
+"Sub-Saharan Africa","Eastern Africa",Zambia,2019,66.33,32.00,18.380477,23.31,743390.00,5.54
+"Sub-Saharan Africa","Eastern Africa",Zambia,2020,66.67,32.67,18.927715,18.11,743390.00,6.03
+"Sub-Saharan Africa","Eastern Africa",Zimbabwe,2015,70.00,40.00,14.154937,19.96,386850.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Zimbabwe,2016,69.33,39.33,14.452704,20.55,386850.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Zimbabwe,2017,69.00,38.67,14.751101,17.58,386850.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Zimbabwe,2018,68.67,37.67,15.052184,34.16,386850.00,NULL
+"Sub-Saharan Africa","Eastern Africa",Zimbabwe,2019,68.33,37.00,15.354608,21.83,386850.00,7.37
+"Sub-Saharan Africa","Eastern Africa",Zimbabwe,2020,68.00,36.33,15.669666,21.51,386850.00,NULL
+"Sub-Saharan Africa","Middle Africa",Angola,2015,50.33,43.33,28.127721,87.22,1246700.00,NULL
+"Sub-Saharan Africa","Middle Africa",Angola,2016,51.00,44.67,29.154746,49.84,1246700.00,NULL
+"Sub-Saharan Africa","Middle Africa",Angola,2017,51.33,45.67,30.208628,68.97,1246700.00,NULL
+"Sub-Saharan Africa","Middle Africa",Angola,2018,52.33,46.67,31.273533,77.79,1246700.00,NULL
+"Sub-Saharan Africa","Middle Africa",Angola,2019,52.33,46.67,32.353588,69.31,1246700.00,16.50
+"Sub-Saharan Africa","Middle Africa",Angola,2020,52.33,47.00,33.428486,53.62,1246700.00,NULL
+"Sub-Saharan Africa","Middle Africa",Cameroon,2015,62.67,41.67,23.012646,32.21,472710.00,NULL
+"Sub-Saharan Africa","Middle Africa",Cameroon,2016,62.67,41.67,23.711630,33.81,472710.00,NULL
+"Sub-Saharan Africa","Middle Africa",Cameroon,2017,63.33,42.00,24.393181,36.10,472710.00,NULL
+"Sub-Saharan Africa","Middle Africa",Cameroon,2018,63.33,42.33,25.076747,39.97,472710.00,NULL
+"Sub-Saharan Africa","Middle Africa",Cameroon,2019,63.33,42.33,25.782341,39.67,472710.00,NULL
+"Sub-Saharan Africa","Middle Africa",Cameroon,2020,64.00,43.00,26.491087,40.77,472710.00,NULL
+"Sub-Saharan Africa","Middle Africa","Central African Republic",2015,44.00,17.33,4.819333,1.70,622980.00,NULL
+"Sub-Saharan Africa","Middle Africa","Central African Republic",2016,42.67,17.00,4.904177,1.83,622980.00,NULL
+"Sub-Saharan Africa","Middle Africa","Central African Republic",2017,41.33,16.67,4.996741,2.07,622980.00,NULL
+"Sub-Saharan Africa","Middle Africa","Central African Republic",2018,40.67,16.00,5.094780,2.22,622980.00,NULL
+"Sub-Saharan Africa","Middle Africa","Central African Republic",2019,39.33,15.33,5.209324,2.22,622980.00,NULL
+"Sub-Saharan Africa","Middle Africa","Central African Republic",2020,38.33,15.00,5.343020,2.33,622980.00,NULL
+"Sub-Saharan Africa","Middle Africa",Chad,2015,51.67,16.33,14.140274,10.95,1259200.00,NULL
+"Sub-Saharan Africa","Middle Africa",Chad,2016,52.00,16.67,14.592585,10.10,1259200.00,NULL
+"Sub-Saharan Africa","Middle Africa",Chad,2017,52.00,17.00,15.085884,10.00,1259200.00,NULL
+"Sub-Saharan Africa","Middle Africa",Chad,2018,52.00,17.67,15.604210,11.24,1259200.00,1.13
+"Sub-Saharan Africa","Middle Africa",Chad,2019,52.33,18.33,16.126866,11.31,1259200.00,NULL
+"Sub-Saharan Africa","Middle Africa",Chad,2020,52.67,18.67,16.644701,10.72,1259200.00,NULL
+"Sub-Saharan Africa","Middle Africa",Congo,2015,66.33,17.00,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Middle Africa",Congo,2016,67.67,17.33,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Middle Africa",Congo,2017,68.67,17.67,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Middle Africa",Congo,2018,68.67,17.67,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Middle Africa",Congo,2019,69.00,17.67,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Middle Africa",Congo,2020,69.00,17.67,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Middle Africa","Democratic Republic of the Congo",2015,45.33,17.67,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Middle Africa","Democratic Republic of the Congo",2016,45.67,17.33,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Middle Africa","Democratic Republic of the Congo",2017,46.00,17.00,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Middle Africa","Democratic Republic of the Congo",2018,46.67,16.33,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Middle Africa","Democratic Republic of the Congo",2019,47.00,16.33,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Middle Africa","Democratic Republic of the Congo",2020,47.67,15.33,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Middle Africa","Equatorial Guinea",2015,57.67,64.33,1.346973,13.19,28050.00,NULL
+"Sub-Saharan Africa","Middle Africa","Equatorial Guinea",2016,57.67,64.33,1.398927,11.24,28050.00,NULL
+"Sub-Saharan Africa","Middle Africa","Equatorial Guinea",2017,58.00,64.33,1.450694,12.20,28050.00,NULL
+"Sub-Saharan Africa","Middle Africa",Gabon,2015,72.00,46.33,2.028517,14.38,257670.00,NULL
+"Sub-Saharan Africa","Middle Africa",Gabon,2016,72.33,46.33,2.086206,14.02,257670.00,NULL
+"Sub-Saharan Africa","Middle Africa",Gabon,2017,73.00,46.33,2.140215,14.93,257670.00,NULL
+"Sub-Saharan Africa","Middle Africa",Gabon,2018,73.00,46.67,2.192012,16.87,257670.00,NULL
+"Sub-Saharan Africa","Middle Africa",Gabon,2019,73.33,47.00,2.242785,16.87,257670.00,NULL
+"Sub-Saharan Africa","Middle Africa",Gabon,2020,73.33,47.00,2.292573,15.31,257670.00,NULL
+"Sub-Saharan Africa","Middle Africa","Sao Tome and Principe",2015,76.00,39.00,0.201124,0.32,960.00,NULL
+"Sub-Saharan Africa","Middle Africa","Sao Tome and Principe",2016,76.67,40.33,0.204632,0.35,960.00,NULL
+"Sub-Saharan Africa","Middle Africa","Sao Tome and Principe",2017,77.00,41.33,0.208036,0.38,960.00,NULL
+"Sub-Saharan Africa","Middle Africa","Sao Tome and Principe",2018,77.00,42.67,0.211344,0.41,960.00,NULL
+"Sub-Saharan Africa","Middle Africa","Sao Tome and Principe",2019,77.33,44.33,0.214599,0.43,960.00,NULL
+"Sub-Saharan Africa","Middle Africa","Sao Tome and Principe",2020,77.33,46.00,0.218641,0.47,960.00,NULL
+"Sub-Saharan Africa","Southern Africa",Botswana,2015,85.67,70.33,2.305171,13.53,566730.00,NULL
+"Sub-Saharan Africa","Southern Africa",Botswana,2016,86.67,71.33,2.352416,15.08,566730.00,NULL
+"Sub-Saharan Africa","Southern Africa",Botswana,2017,87.67,72.33,2.401840,16.11,566730.00,NULL
+"Sub-Saharan Africa","Southern Africa",Botswana,2018,88.33,73.67,2.451409,17.03,566730.00,NULL
+"Sub-Saharan Africa","Southern Africa",Botswana,2019,89.67,74.33,2.499702,16.70,566730.00,20.09
+"Sub-Saharan Africa","Southern Africa",Botswana,2020,89.67,74.33,2.546402,14.93,566730.00,21.02
+"Sub-Saharan Africa","Southern Africa",Eswatini,2015,73.33,59.33,1.133936,4.06,17200.00,NULL
+"Sub-Saharan Africa","Southern Africa",Eswatini,2016,74.00,60.00,1.142524,3.82,17200.00,22.72
+"Sub-Saharan Africa","Southern Africa",Eswatini,2017,75.00,60.00,1.151390,4.40,17200.00,NULL
+"Sub-Saharan Africa","Southern Africa",Eswatini,2018,75.67,60.67,1.160428,4.67,17200.00,NULL
+"Sub-Saharan Africa","Southern Africa",Eswatini,2019,76.67,61.33,1.169613,4.50,17200.00,NULL
+"Sub-Saharan Africa","Southern Africa",Eswatini,2020,76.67,61.33,1.180655,3.98,17200.00,NULL
+"Sub-Saharan Africa","Southern Africa",Lesotho,2015,74.67,40.67,2.118521,2.36,30360.00,NULL
+"Sub-Saharan Africa","Southern Africa",Lesotho,2016,75.00,42.67,2.143872,2.11,30360.00,NULL
+"Sub-Saharan Africa","Southern Africa",Lesotho,2017,75.33,44.67,2.170617,2.31,30360.00,NULL
+"Sub-Saharan Africa","Southern Africa",Lesotho,2018,76.00,46.33,2.198017,2.55,30360.00,NULL
+"Sub-Saharan Africa","Southern Africa",Lesotho,2019,76.00,47.67,2.225702,2.45,30360.00,16.88
+"Sub-Saharan Africa","Southern Africa",Lesotho,2020,76.33,49.67,2.254100,2.23,30360.00,NULL
+"Sub-Saharan Africa","Southern Africa",Namibia,2015,83.33,34.67,2.282704,11.34,823290.00,NULL
+"Sub-Saharan Africa","Southern Africa",Namibia,2016,83.00,34.67,2.323352,10.72,823290.00,23.35
+"Sub-Saharan Africa","Southern Africa",Namibia,2017,83.33,34.67,2.364534,12.90,823290.00,NULL
+"Sub-Saharan Africa","Southern Africa",Namibia,2018,83.67,34.67,2.405680,13.68,823290.00,19.88
+"Sub-Saharan Africa","Southern Africa",Namibia,2019,83.67,35.00,2.446644,12.54,823290.00,NULL
+"Sub-Saharan Africa","Southern Africa",Namibia,2020,83.67,35.00,2.489098,10.58,823290.00,NULL
+"Sub-Saharan Africa","Southern Africa","South Africa",2015,90.00,73.67,55.876504,346.71,1213090.00,22.87
+"Sub-Saharan Africa","Southern Africa","South Africa",2016,90.33,74.67,56.422274,323.59,1213090.00,24.02
+"Sub-Saharan Africa","Southern Africa","South Africa",2017,91.00,75.67,56.641209,381.45,1213090.00,23.99
+"Sub-Saharan Africa","Southern Africa","South Africa",2018,91.33,77.00,57.339635,404.16,1213090.00,24.22
+"Sub-Saharan Africa","Southern Africa","South Africa",2019,91.67,78.00,58.087055,388.53,1213090.00,25.54
+"Sub-Saharan Africa","Southern Africa","South Africa",2020,92.00,78.67,58.801927,337.62,1213090.00,24.34
+"Sub-Saharan Africa","Western Africa",Benin,2015,65.33,15.33,10.932783,11.39,112760.00,NULL
+"Sub-Saharan Africa","Western Africa",Benin,2016,65.33,15.67,11.260085,11.82,112760.00,NULL
+"Sub-Saharan Africa","Western Africa",Benin,2017,65.33,16.00,11.596779,12.70,112760.00,NULL
+"Sub-Saharan Africa","Western Africa",Benin,2018,65.67,16.33,11.940683,14.26,112760.00,1.47
+"Sub-Saharan Africa","Western Africa",Benin,2019,65.33,17.00,12.290444,14.39,112760.00,NULL
+"Sub-Saharan Africa","Western Africa",Benin,2020,65.33,17.33,12.643123,15.65,112760.00,NULL
+"Sub-Saharan Africa","Western Africa","Burkina Faso",2015,56.33,24.67,18.718019,11.83,273600.00,NULL
+"Sub-Saharan Africa","Western Africa","Burkina Faso",2016,56.00,24.67,19.275498,12.83,273600.00,NULL
+"Sub-Saharan Africa","Western Africa","Burkina Faso",2017,55.00,25.00,19.835858,14.11,273600.00,NULL
+"Sub-Saharan Africa","Western Africa","Burkina Faso",2018,54.33,25.00,20.392723,15.89,273600.00,4.69
+"Sub-Saharan Africa","Western Africa","Burkina Faso",2019,54.00,25.00,20.951639,16.18,273600.00,NULL
+"Sub-Saharan Africa","Western Africa","Burkina Faso",2020,53.33,25.00,21.522626,17.93,273600.00,NULL
+"Sub-Saharan Africa","Western Africa","Cabo Verde",2015,83.33,68.67,0.552166,1.60,4030.00,31.31
+"Sub-Saharan Africa","Western Africa","Cabo Verde",2016,84.33,70.33,0.558394,1.66,4030.00,NULL
+"Sub-Saharan Africa","Western Africa","Cabo Verde",2017,85.33,72.33,0.564954,1.77,4030.00,12.24
+"Sub-Saharan Africa","Western Africa","Cabo Verde",2018,86.00,74.67,0.571202,1.97,4030.00,12.17
+"Sub-Saharan Africa","Western Africa","Cabo Verde",2019,86.67,76.00,0.577030,1.98,4030.00,11.29
+"Sub-Saharan Africa","Western Africa","Cabo Verde",2020,87.33,78.00,0.582640,1.70,4030.00,NULL
+"Sub-Saharan Africa","Western Africa","Côte d'Ivoire",2015,71.33,30.67,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Western Africa","Côte d'Ivoire",2016,71.00,31.33,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Western Africa","Côte d'Ivoire",2017,71.00,32.00,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Western Africa","Côte d'Ivoire",2018,71.00,33.00,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Western Africa","Côte d'Ivoire",2019,70.67,33.67,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Western Africa","Côte d'Ivoire",2020,70.67,34.67,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Western Africa",Gambia,2015,78.00,45.00,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Western Africa",Gambia,2016,78.33,45.00,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Western Africa",Gambia,2017,78.67,44.67,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Western Africa",Gambia,2018,78.67,44.67,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Western Africa",Gambia,2019,79.33,44.33,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Western Africa",Gambia,2020,79.33,44.33,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Western Africa",Ghana,2015,79.33,18.67,28.870939,49.41,227540.00,6.81
+"Sub-Saharan Africa","Western Africa",Ghana,2016,80.33,19.67,29.554303,56.17,227540.00,NULL
+"Sub-Saharan Africa","Western Africa",Ghana,2017,81.33,20.67,30.222262,60.41,227540.00,3.37
+"Sub-Saharan Africa","Western Africa",Ghana,2018,82.67,21.67,30.870641,67.30,227540.00,NULL
+"Sub-Saharan Africa","Western Africa",Ghana,2019,83.67,22.67,31.522290,68.34,227540.00,NULL
+"Sub-Saharan Africa","Western Africa",Ghana,2020,84.67,23.00,32.180401,70.04,227533.00,NULL
+"Sub-Saharan Africa","Western Africa",Guinea,2015,67.00,26.00,11.625998,8.79,245720.00,NULL
+"Sub-Saharan Africa","Western Africa",Guinea,2016,67.00,27.33,11.930985,8.60,245720.00,NULL
+"Sub-Saharan Africa","Western Africa",Guinea,2017,67.33,28.33,12.240789,10.32,245720.00,NULL
+"Sub-Saharan Africa","Western Africa",Guinea,2018,67.00,29.67,12.554864,11.86,245720.00,NULL
+"Sub-Saharan Africa","Western Africa",Guinea,2019,67.00,30.67,12.877539,13.44,245720.00,5.02
+"Sub-Saharan Africa","Western Africa",Guinea,2020,67.33,32.33,13.205153,14.18,245720.00,NULL
+"Sub-Saharan Africa","Western Africa",Guinea-Bissau,2015,60.00,15.67,1.788919,1.05,28120.00,NULL
+"Sub-Saharan Africa","Western Africa",Guinea-Bissau,2016,60.33,16.33,1.834552,1.18,28120.00,NULL
+"Sub-Saharan Africa","Western Africa",Guinea-Bissau,2017,60.00,17.00,1.879826,1.35,28120.00,NULL
+"Sub-Saharan Africa","Western Africa",Guinea-Bissau,2018,60.00,18.00,1.924955,1.50,28120.00,3.20
+"Sub-Saharan Africa","Western Africa",Guinea-Bissau,2019,60.00,18.33,1.970457,1.44,28120.00,NULL
+"Sub-Saharan Africa","Western Africa",Guinea-Bissau,2020,60.00,19.33,2.015828,1.43,28120.00,NULL
+"Sub-Saharan Africa","Western Africa",Liberia,2015,72.67,17.00,4.612329,3.23,96320.00,NULL
+"Sub-Saharan Africa","Western Africa",Liberia,2016,73.00,17.33,4.706097,3.40,96320.00,3.08
+"Sub-Saharan Africa","Western Africa",Liberia,2017,74.00,17.33,4.796631,3.39,96320.00,5.95
+"Sub-Saharan Africa","Western Africa",Liberia,2018,74.00,17.67,4.889391,3.42,96320.00,NULL
+"Sub-Saharan Africa","Western Africa",Liberia,2019,75.00,17.67,4.985289,3.32,96320.00,NULL
+"Sub-Saharan Africa","Western Africa",Liberia,2020,75.00,17.67,5.087584,3.04,96320.00,NULL
+"Sub-Saharan Africa","Western Africa",Mali,2015,76.00,38.67,18.112907,13.10,1220190.00,7.73
+"Sub-Saharan Africa","Western Africa",Mali,2016,77.67,40.00,18.700106,14.03,1220190.00,1.37
+"Sub-Saharan Africa","Western Africa",Mali,2017,79.33,41.33,19.311355,15.37,1220190.00,7.41
+"Sub-Saharan Africa","Western Africa",Mali,2018,80.67,43.00,19.934298,17.07,1220190.00,1.62
+"Sub-Saharan Africa","Western Africa",Mali,2019,82.00,44.67,20.567424,17.28,1220190.00,NULL
+"Sub-Saharan Africa","Western Africa",Mali,2020,83.67,46.00,21.224040,17.47,1220190.00,3.53
+"Sub-Saharan Africa","Western Africa",Mauritania,2015,66.67,42.67,3.946220,6.17,1030700.00,NULL
+"Sub-Saharan Africa","Western Africa",Mauritania,2016,68.33,45.33,4.051890,6.40,1030700.00,NULL
+"Sub-Saharan Africa","Western Africa",Mauritania,2017,70.00,47.33,4.160015,6.80,1030700.00,10.34
+"Sub-Saharan Africa","Western Africa",Mauritania,2018,70.00,47.67,4.270712,7.47,1030700.00,NULL
+"Sub-Saharan Africa","Western Africa",Mauritania,2019,70.00,47.67,4.383849,8.07,1030700.00,10.42
+"Sub-Saharan Africa","Western Africa",Mauritania,2020,70.33,48.00,4.498604,8.41,1030700.00,NULL
+"Sub-Saharan Africa","Western Africa",Niger,2015,56.67,21.33,20.128124,9.68,1266700.00,NULL
+"Sub-Saharan Africa","Western Africa",Niger,2016,57.00,21.67,20.921743,10.40,1266700.00,NULL
+"Sub-Saharan Africa","Western Africa",Niger,2017,57.00,22.33,21.737922,11.19,1266700.00,7.77
+"Sub-Saharan Africa","Western Africa",Niger,2018,57.00,23.00,22.577058,12.81,1266700.00,NULL
+"Sub-Saharan Africa","Western Africa",Niger,2019,57.33,23.67,23.443393,12.92,1266700.00,NULL
+"Sub-Saharan Africa","Western Africa",Niger,2020,57.33,24.67,24.333639,13.74,1266700.00,NULL
+"Sub-Saharan Africa","Western Africa",Nigeria,2015,69.00,38.67,183.995785,493.03,910770.00,4.31
+"Sub-Saharan Africa","Western Africa",Nigeria,2016,71.00,39.33,188.666931,404.65,910770.00,7.06
+"Sub-Saharan Africa","Western Africa",Nigeria,2017,72.33,40.00,193.495907,375.75,910770.00,8.39
+"Sub-Saharan Africa","Western Africa",Nigeria,2018,74.00,41.00,198.387623,421.74,910770.00,NULL
+"Sub-Saharan Africa","Western Africa",Nigeria,2019,75.67,41.67,203.304492,448.12,910770.00,10.70
+"Sub-Saharan Africa","Western Africa",Nigeria,2020,77.33,42.67,208.327405,432.20,910770.00,NULL
+"Sub-Saharan Africa","Western Africa","Saint Helena",2015,99.00,100.00,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Western Africa","Saint Helena",2016,99.00,100.00,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Western Africa","Saint Helena",2017,99.00,100.00,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Western Africa","Saint Helena",2018,99.00,100.00,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Western Africa","Saint Helena",2019,99.00,100.00,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Western Africa","Saint Helena",2020,99.00,100.00,NULL,NULL,NULL,NULL
+"Sub-Saharan Africa","Western Africa",Senegal,2015,79.67,53.00,14.356181,17.77,192530.00,6.76
+"Sub-Saharan Africa","Western Africa",Senegal,2016,80.67,53.67,14.751356,19.04,192530.00,4.46
+"Sub-Saharan Africa","Western Africa",Senegal,2017,81.67,54.33,15.157793,21.00,192530.00,4.08
+"Sub-Saharan Africa","Western Africa",Senegal,2018,82.67,55.67,15.574909,23.12,192530.00,3.57
+"Sub-Saharan Africa","Western Africa",Senegal,2019,84.00,56.33,16.000781,23.40,192530.00,2.86
+"Sub-Saharan Africa","Western Africa",Senegal,2020,85.00,57.00,16.436120,24.49,192530.00,NULL
+"Sub-Saharan Africa","Western Africa","Sierra Leone",2015,60.00,15.67,7.314773,4.22,72180.00,NULL
+"Sub-Saharan Africa","Western Africa","Sierra Leone",2016,60.67,16.33,7.493913,3.67,72180.00,NULL
+"Sub-Saharan Africa","Western Africa","Sierra Leone",2017,61.67,16.67,7.677565,3.72,72180.00,NULL
+"Sub-Saharan Africa","Western Africa","Sierra Leone",2018,62.67,16.67,7.861281,4.09,72180.00,3.19
+"Sub-Saharan Africa","Western Africa","Sierra Leone",2019,64.00,17.00,8.046828,4.08,72180.00,NULL
+"Sub-Saharan Africa","Western Africa","Sierra Leone",2020,65.00,17.33,8.233970,4.06,72180.00,NULL
+"Sub-Saharan Africa","Western Africa",Togo,2015,66.33,17.67,7.473229,4.18,54390.00,2.20
+"Sub-Saharan Africa","Western Africa",Togo,2016,67.33,18.33,7.661354,6.03,54390.00,NULL
+"Sub-Saharan Africa","Western Africa",Togo,2017,68.33,18.33,7.852795,6.40,54390.00,3.74
+"Sub-Saharan Africa","Western Africa",Togo,2018,69.33,19.33,8.046679,7.11,54390.00,NULL
+"Sub-Saharan Africa","Western Africa",Togo,2019,70.33,19.67,8.243094,7.22,54390.00,NULL
+"Sub-Saharan Africa","Western Africa",Togo,2020,70.67,20.00,8.442580,7.57,54390.00,NULL
