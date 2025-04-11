@@ -11,7 +11,7 @@
 This analysis explores access to water sources in **Maji Ndogo**, a hypothetical place using a mock survey dataset.  
 The goal is to understand the population's dependency on different water sources and identify patterns in usage so that a better infrastructure could be built while using resources effectively and efficiently.  
 
-SQL was used for querying and cleaning the dataset. Visualizations were created using **Power BI**, which can be found in the *Visualizations* directory for a more comprehensive report.  
+SQL was used for querying and cleaning the dataset and Visualizations were created using **Power BI**.
 
 ---
 
