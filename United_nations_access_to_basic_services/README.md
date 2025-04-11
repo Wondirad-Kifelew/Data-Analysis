@@ -62,7 +62,7 @@ WHERE
 
 ---
 
-### 2. 🔢 Unique ID for Countries
+### 2. 🔢 Assigning Unique ID for Countries
 ```
 SELECT
     DISTINCT Country_name,
@@ -82,7 +82,7 @@ FROM
 ---
 
 
-### 3. 🏆 Water Services Rank by Country and Year
+### 3. 🏆 Water Services Rank by Country and Year(From worst to best)
 ```
 SELECT
     Country_name,
