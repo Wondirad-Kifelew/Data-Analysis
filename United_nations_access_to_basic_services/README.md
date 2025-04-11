@@ -3,7 +3,7 @@
 *By Wondirad Abebe Kifelew*
 
 ---
-![By weekday](Images/4.jpg)
+![By weekday](Images/0.jpg)
 ---
 
 ### 🌍 **Project Overview**
