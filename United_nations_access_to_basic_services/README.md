@@ -24,7 +24,7 @@ This analysis was performed using **SQL** to extract insights..
 
 ### 📂 **Dataset Description**
 
-The analysis uses a single table from the `united_nations.access_to_basic_services` dataset, which includes:
+The analysis uses a single table called `access_to_basic_services` from the `united_nations` database, which includes:
 
 - GDP estimates  
 - Population data  
