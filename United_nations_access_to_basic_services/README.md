@@ -8,13 +8,13 @@
 
 ### 🌍 **Project Overview**
 
-This project analyzes access to basic services, focusing on water availability, population demographics, and unemployment trends from 2015-2020. It highlights regions with critical challenges and aims to provide actionable insights for targeted interventions and policy recommendations.
+This project analyzes access to basic services, focusing on water availability, population demographics, and unemployment trends from 2015-2020 in key regions. It highlights regions with critical challenges and aims to provide actionable insights for targeted interventions and policy recommendations.
 
 The goal is to:
 
 - Provide insights into water access issues.
 - Explore the socio-economic impact of high population densities.
-- Address unemployment spikes.
+- Address unemployment spikes in Central and South Eastern Asia and Sub-Saharan Africa.
 - Recommend targeted interventions and policies based on findings.
   
 ---
