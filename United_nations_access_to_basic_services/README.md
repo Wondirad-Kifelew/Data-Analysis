@@ -58,7 +58,7 @@ WHERE
     Est_gdp_in_billions IS NOT NULL;
 ```
 
-![By weekday](Images/4.jpg)
+![By weekday](Images/1.jpg)
 
 ---
 
@@ -77,7 +77,7 @@ FROM
     united_nations.access_to_basic_services;
 ```
 
-![By weekday](Images/4.jpg)
+![By weekday](Images/2.jpg)
 
 ---
 
@@ -93,7 +93,7 @@ FROM
     united_nations.access_to_basic_services;
 ```
 
-![By weekday](Images/4.jpg)
+![By weekday](Images/3.jpg)
 
 ---
 
@@ -143,7 +143,7 @@ WHERE
     Est_population_in_millions IS NOT NULL;
 ```
 
-![By weekday](Images/4.jpg)
+![By weekday](Images/5.jpg)
 
 ---
 
@@ -161,7 +161,7 @@ WHERE
     OR Region LIKE "%Sub-Saharan Africa%";
 ```
 
-![By weekday](Images/4.jpg)
+![By weekday](Images/6.jpg)
 
 ---
 
@@ -178,7 +178,7 @@ FROM
     united_nations.access_to_basic_services;
 ```
 
-![By weekday](Images/4.jpg)
+![By weekday](Images/7.jpg)
 
 ---
 
