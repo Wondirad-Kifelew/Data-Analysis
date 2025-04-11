@@ -187,6 +187,7 @@ FROM
 
 ### 📌 Key Insights
 - Countries like Central African republic, DRC, and South Sudan have the lowest access to basic water services(<50%) across the years 2015 to 2020
+- Afganistan showed highest improvement in Access rates to basic water services in the years 2018, 2016 and 2019 from their respective previous years
 - Despite the presence of countries with smaller populations like Maldives and Bhutan in south asia, the average population remains high, due to massive populations in the region such as India, Pakistan, and Bangladesh
 - countries like cappeverde in 2015, djibouti in 2017 and south africa in 2019 showed highest unimployement rates.
   
@@ -195,7 +196,7 @@ FROM
 ### 📢 Recommendations
 - Focus infrastructure and aid efforts on low-access subregions with <4 countries.
 - Develop employment projects in Sub-Saharan Africa and Southern Asia.
-- Identify best practices in countries showing consistent improvement in water access.
+- Identify best practices in countries showing consistent improvement in water access like Afganistan(2016-2019).
 - Focus on improving water access in countries like Central African Republic, DRC, and South Sudan.
 - Consider population-weighted policies in South Asia, factoring in large countries like India, Pakistan, and Bangladesh.
 
