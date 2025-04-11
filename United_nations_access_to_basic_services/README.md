@@ -8,15 +8,17 @@
 
 ### 🌍 **Project Overview**
 
-This SQL-based data analysis explores the accessibility of basic services, especially **managed drinking water**, across countries using data from the **United Nations**.
+This project analyzes access to basic services, focusing on water availability, population demographics, and unemployment trends from 2015-2020. It highlights regions with critical challenges and aims to provide actionable insights for targeted interventions and policy recommendations.
 
 The goal is to:
 
-- Understand disparities in water access and economic conditions.
-- Rank countries and subregions by GDP and water service availability.
-- Track population growth and unemployment trends.
-
-This analysis was performed using **SQL** to extract insights, supported by **Power BI** visualizations.
+- Provide insights into water access issues.
+- Explore the socio-economic impact of high population densities.
+- Address unemployment spikes.
+- Recommend targeted interventions and policies based on findings.
+  
+---
+This analysis was performed using **SQL** to extract insights..
 
 ---
 
